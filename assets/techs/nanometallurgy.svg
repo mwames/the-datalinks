@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="54.751446mm"
+   height="54.453896mm"
+   viewBox="0 0 54.751446 54.453896"
+   version="1.1"
+   id="svg2547"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="nanometallurgy.svg">
+  <defs
+     id="defs2541" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="212.03874"
+     inkscape:cy="-85.666411"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1022"
+     inkscape:window-x="1079"
+     inkscape:window-y="709"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata2544">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-49.731418,-71.713534)">
+    <g
+       transform="matrix(0.26458333,0,0,0.26458333,-854.7817,-758.09718)"
+       id="g1110"
+       style="fill:#90ae50;fill-opacity:1">
+      <path
+         style="fill:#90ae50;fill-opacity:1"
+         d="m 3436.9224,3342.1025 h 81.0195 l -43.71,-68.2199 -10.2197,18.6799 -28.5498,-15.6099 -16.8301,30.7801 28.5498,15.6098 z"
+         id="polygon1102"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#90ae50;fill-opacity:1"
+         d="m 3513.1621,3255.9976 h 17.875 v 17.875 h -17.875 z"
+         id="rect1104"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#90ae50;fill-opacity:1"
+         d="m 3526.2573,3342.1025 h 81.0196 l -10.2598,-18.76 28.5498,-15.6098 -16.8301,-30.7801 -28.5498,15.6099 -10.2197,-18.6799 z"
+         id="polygon1106"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 3419.9209,3136.2925 102.1802,205.81 102.1699,-205.81 z m 117.0293,143.4931 h -29.7012 v -29.7011 h 29.7012 z m -54.9692,-47.7131 -16.9102,-34.0698 h 52.6201 v 22.8699 h 37.75 v -50.75 c 0,-7.3799 -10.5,-16 -37.75,-16 v 28.8801 h -60.0698 l -16.73,-33.7102 h 162.4199 l -41.1001,82.78 z"
+         id="path1108"
+         style="fill:#90ae50;fill-opacity:1" />
+    </g>
+  </g>
+</svg>

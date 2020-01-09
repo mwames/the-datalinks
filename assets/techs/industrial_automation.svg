@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="45.685577mm"
+   height="50.956131mm"
+   viewBox="0 0 45.685579 50.956132"
+   version="1.1"
+   id="svg883"
+   inkscape:version="0.92.4 (f8dce91, 2019-08-02)"
+   sodipodi:docname="industrial_automation.svg">
+  <defs
+     id="defs877" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="375.83407"
+     inkscape:cy="-43.357884"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="446"
+     inkscape:window-height="440"
+     inkscape:window-x="1255"
+     inkscape:window-y="1048"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata880">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(48.676169,-31.389622)">
+    <g
+       transform="matrix(0.26458333,0,0,0.26458333,-630.06335,-274.56573)"
+       id="g4286"
+       style="fill:#e2bd4d;fill-opacity:1">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 2370.0388,1215.0267 v 36.2701 h -37.6499 v 11.3199 c 0,26.8401 -21.8401,48.6801 -48.6802,48.6801 -26.8398,0 -48.6699,-21.84 -48.6699,-48.6801 v -11.3199 h -37.6699 v -36.2701 h 6.1699 v -58.66 h 37 v 58.66 h 6.1699 v 19.39 h 12.3301 v -19.39 h 6.1699 v -58.66 h 37 v 58.66 h 6.1602 v 19.39 h 12.3398 v -19.39 h 6.1602 v -58.66 h 37 v 58.66 z"
+         id="path4282"
+         style="fill:#e2bd4d;fill-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 2337.3889,1256.2968 h 32.6499 v 17.7799 h -17.6999 c -0.24,1.43 -0.5201,2.84 -0.8401,4.2301 l 16.3501,6.7699 -8.76,21.1601 -16.3501,-6.77 c -0.7701,1.22 -1.5701,2.4199 -2.4099,3.58 l 12.52,12.5199 -16.19,16.2 -12.53,-12.5299 c -1.1602,0.8399 -2.3601,1.6499 -3.5801,2.4099 l 6.7801,16.35 -21.1602,8.77 -6.77,-16.35 c -1.3999,0.3101 -2.8098,0.6 -4.2398,0.84 v 17.7001 h -22.9001 v -17.7001 c -1.4299,-0.24 -2.8401,-0.5299 -4.24,-0.84 l -6.77,16.35 -21.1499,-8.77 6.77,-16.35 c -1.2202,-0.76 -2.4202,-1.57 -3.5801,-2.4099 l -12.53,12.5299 -16.19,-16.2 12.5201,-12.5199 c -0.8301,-1.1601 -1.6402,-2.36 -2.4099,-3.58 l -16.3501,6.77 -8.7601,-21.1601 16.3499,-6.7699 c -0.3198,-1.3901 -0.5999,-2.8001 -0.8398,-4.2301 h -17.71 v -17.7799 h 32.6699 v 6.3199 c 0,29.65 24.02,53.6801 53.6699,53.6801 29.6502,0 53.6802,-24.0301 53.6802,-53.6801 z"
+         id="path4284"
+         style="fill:#e2bd4d;fill-opacity:1" />
+    </g>
+  </g>
+</svg>

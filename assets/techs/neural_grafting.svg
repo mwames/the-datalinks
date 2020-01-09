@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="46.610546mm"
+   height="51.628159mm"
+   viewBox="0 0 46.610546 51.628159"
+   version="1.1"
+   id="svg795"
+   inkscape:version="0.92.4 (f8dce91, 2019-08-02)"
+   sodipodi:docname="neural_grafting.svg">
+  <defs
+     id="defs789" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="387.98591"
+     inkscape:cy="-106.46855"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="446"
+     inkscape:window-height="439"
+     inkscape:window-x="1205"
+     inkscape:window-y="767"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata792">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-3.178728,-8.5591832)">
+    <g
+       transform="matrix(0.26458333,0,0,0.26458333,-250.08714,-221.97382)"
+       id="g3874"
+       style="fill:#e1561c;fill-opacity:1">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 1038.6053,915.10583 v -8.14001 h 13.67 v -34.82996 c -3.8699,-0.55004 -7.81,-0.83001 -11.7899,-0.83001 -40.88005,0 -79.02007,29.96997 -79.02007,66.95001 0,25.35998 10.63001,39.22998 23.22009,46.00995 h 53.91988 v -27.32996 h 39.93 v -41.83002 z m 30,32.21003 h -40.33 v 27.75 h -37.44998 c -9.51001,-4.69001 -18.35999,-14.94001 -18.35999,-36.81 0,-29.81 31.79007,-55.95001 68.02007,-55.95001 0.7199,0 1.43,0.01 2.14,0.03 v 14.77001 h -14.3501 v 27.96003 h 40.33 v 22.25 z"
+         id="path3868"
+         style="fill:#e1561c;fill-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 1132.4154,977.51581 -0.76,1.21002 c -1.6901,2.72003 -4.6801,4.40002 -7.91,4.40002 h -8.7201 v 17.38995 h -18.67 v 7.9 h 18.67 v 31.6201 h -50.3699 v 3.9601 l 22.4399,22.4399 H 957.22534 l 38.16004,-38.17 v -39.91007 h 60.88992 v -25.25 h 31.1601 v -53.96997 h -30 v -36.12005 c 33.6399,6.87005 61.06,33.47003 61.06,65.24005 v 7.17999 l 14.0899,25.48999 c 1.13,2.06 1.0701,4.58002 -0.1699,6.58997 z"
+         id="path3870"
+         style="fill:#e1561c;fill-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 1020.4354,932.58582 c 0,11.83001 -9.5901,21.42004 -21.41013,21.42004 -11.82984,0 -21.41992,-9.59003 -21.41992,-21.42004 0,-11.82996 9.59008,-21.41999 21.41992,-21.41999 11.82003,0 21.41013,9.59003 21.41013,21.41999 z"
+         id="path3872"
+         style="fill:#e1561c;fill-opacity:1" />
+    </g>
+  </g>
+</svg>

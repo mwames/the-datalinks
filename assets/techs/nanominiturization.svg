@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="54.751579mm"
+   height="54.455456mm"
+   viewBox="0 0 54.75158 54.455456"
+   version="1.1"
+   id="svg1488"
+   inkscape:version="0.92.4 (f8dce91, 2019-08-02)"
+   sodipodi:docname="nanominiturization.svg">
+  <defs
+     id="defs1482" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="103.46754"
+     inkscape:cy="102.90796"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="696"
+     inkscape:window-height="1016"
+     inkscape:window-x="1080"
+     inkscape:window-y="709"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata1485">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-85.261118,-128.40918)">
+    <g
+       transform="matrix(0.26458333,0,0,0.26458333,-573.50777,-701.40077)"
+       id="g4844"
+       style="fill:#e2bd4d;fill-opacity:1">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 2491.1277,3136.2896 102.1748,205.8159 102.1753,-205.8159 z m 20.9673,13 h 63.624 v 61.1047 h -21.291 l 38.875,71.0849 38.875,-71.0849 h -21.375 v -61.1047 h 63.7075 l -81.208,163.58 z"
+         id="path4838"
+         style="fill:#e2bd4d;fill-opacity:1" />
+      <path
+         style="fill:#e2bd4d;fill-opacity:1"
+         d="m 2597.4602,3342.1055 h 81.02 l -10.2602,-18.76 28.5503,-15.6101 -16.8301,-30.7798 -28.5498,15.6098 -10.2202,-18.6799 z"
+         id="polygon4840"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#e2bd4d;fill-opacity:1"
+         d="m 2508.1252,3342.1055 h 81.0201 l -43.71,-68.22 -10.2202,18.6799 -28.5498,-15.6098 -16.8301,30.7798 28.5503,15.6101 z"
+         id="polygon4842"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>

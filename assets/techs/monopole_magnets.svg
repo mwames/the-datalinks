@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="45.598316mm"
+   height="51.417828mm"
+   viewBox="0 0 45.598316 51.417826"
+   version="1.1"
+   id="svg795"
+   inkscape:version="0.92.4 (f8dce91, 2019-08-02)"
+   sodipodi:docname="monopole_magnets.svg">
+  <defs
+     id="defs789" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="193.45445"
+     inkscape:cy="36.947699"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="446"
+     inkscape:window-height="439"
+     inkscape:window-x="1205"
+     inkscape:window-y="767"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata792">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(13.69757,-46.715068)">
+    <g
+       transform="matrix(0.26458333,0,0,0.26458333,-1004.702,-334.09575)"
+       id="g4646"
+       style="fill:#e2bd4d;fill-opacity:1">
+      <path
+         style="fill:#e2bd4d;fill-opacity:1"
+         d="m 3769.0586,1577.4734 h 62.8877 v 18.8334 h -62.8877 z"
+         id="rect4638"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#e2bd4d;fill-opacity:1"
+         d="m 3861.1357,1476.5984 h -22.0271 v 18.8334 h 22.0271 v 22.0271 h 18.8333 v -22.0271 h 22.0271 v -18.8334 h -22.0271 v -22.0272 h -18.8333 z"
+         id="polygon4640"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 3792.2585,1464.285 h 51.8001 v -25 h -51.8001 c -25.77,0 -46.7299,20.9601 -46.7299,46.7301 0,25.7699 20.9599,46.73 46.7299,46.73 h 51.8001 v -25 h -51.8001 c -11.9799,0 -21.7299,-9.75 -21.7299,-21.73 0,-11.99 9.75,-21.7301 21.7299,-21.7301 z m 29.7801,-21.99 h 19.02 v 19.0201 h -19.02 z"
+         id="path4642"
+         style="fill:#e2bd4d;fill-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 3871.1387,1608.6201 h -51.8001 v 25 h 51.8001 c 25.77,0 46.73,-20.9601 46.73,-46.7301 0,-25.7699 -20.96,-46.73 -46.73,-46.73 h -51.8001 v 25 h 51.8001 c 11.98,0 21.73,9.75 21.73,21.73 0,11.99 -9.75,21.7301 -21.73,21.7301 z m -29.7801,21.99 h -19.02 v -19.02 h 19.02 z"
+         id="path4644"
+         style="fill:#e2bd4d;fill-opacity:1" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="55.080956mm"
+   height="55.080959mm"
+   viewBox="0 0 55.080955 55.080958"
+   version="1.1"
+   id="svg795"
+   inkscape:version="0.92.4 (f8dce91, 2019-08-02)"
+   sodipodi:docname="centauri_meditation.svg">
+  <defs
+     id="defs789" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="211.76592"
+     inkscape:cy="12.833152"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="446"
+     inkscape:window-height="439"
+     inkscape:window-x="1205"
+     inkscape:window-y="767"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata792">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(18.542481,-36.671631)">
+    <g
+       transform="matrix(0.26458333,0,0,0.26458333,-21.829003,-417.39395)"
+       id="g3932"
+       style="fill:#90ae50;fill-opacity:1">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 116.51153,1716.1534 c -57.390013,0 -104.090029,46.69 -104.090029,104.09 0,57.39 46.700012,104.09 104.090029,104.09 57.39997,0 104.08997,-46.7 104.08997,-104.09 0,-57.4 -46.69,-104.09 -104.08997,-104.09 z m 0,192.18 c -48.650026,0 -88.090029,-39.44 -88.090029,-88.09 0,-48.65 39.440002,-88.09 88.090029,-88.09 48.64997,0 88.08997,39.44 88.08997,88.09 0,48.65 -39.44,88.09 -88.08997,88.09 z"
+         id="path3926"
+         style="fill:#90ae50;fill-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 116.50864,1758.5248 c -34.080021,0 -61.710026,27.63 -61.710026,61.72 0,34.08 27.630005,61.7199 61.710026,61.7199 34.08996,0 61.71997,-27.6399 61.71997,-61.7199 0,-34.09 -27.63001,-61.72 -61.71997,-61.72 z m -29.280033,41.24 c 6.76001,0 12.25,5.48 12.25,12.25 0,6.77 -5.48999,12.25 -12.25,12.25 -6.769958,0 -12.25,-5.48 -12.25,-12.25 0,-6.77 5.480042,-12.25 12.25,-12.25 z m 29.280033,70.1999 c -24.169986,0 -44.369999,-17.35 -48.799991,-40.24 4.97998,4.0501 10.940002,7.0201 19.709961,6.9001 26.96002,-0.36 26.57001,-29.11 53.53003,-29.47 12.25,-0.16 19,5.68 25.26001,12.0699 0.02,0.3401 0.02,0.6801 0.02,1.0201 0,27.41 -22.29999,49.7199 -49.71997,49.7199 z"
+         id="path3928"
+         style="fill:#90ae50;fill-opacity:1" />
+      <path
+         style="fill:#90ae50;fill-opacity:1"
+         d="m 153.39226,1831.7648 a 12.25,12.25 0 0 1 -12.25,12.25 12.25,12.25 0 0 1 -12.25,-12.25 12.25,12.25 0 0 1 12.25,-12.25 12.25,12.25 0 0 1 12.25,12.25 z"
+         id="circle3930"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="54.186562mm"
+   height="54.186821mm"
+   viewBox="0 0 54.186561 54.186821"
+   version="1.1"
+   id="svg795"
+   inkscape:version="0.92.4 (f8dce91, 2019-08-02)"
+   sodipodi:docname="superstring_theory.svg">
+  <defs
+     id="defs789" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="414.04375"
+     inkscape:cy="-46.973325"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="446"
+     inkscape:window-height="439"
+     inkscape:window-x="1205"
+     inkscape:window-y="767"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata792">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(3.7157422,-21.741967)">
+    <path
+       transform="matrix(0.26458333,0,0,0.26458333,-908.51125,-57.339138)"
+       style="fill:#e1561c;fill-opacity:1"
+       d="m 3529.4946,298.88922 v 90.17481 l -0.027,0.007 -7.3633,-29.76148 -7.3706,29.76215 -0.029,-0.007 v -90.17487 h -28.3401 l 21.9197,88.58606 -88.5847,-21.92108 v 28.33984 h 90.1728 l 0.01,0.0273 -29.7593,7.36279 29.7644,7.37134 -0.01,0.0286 H 3419.7 v 28.34009 l 88.5886,-21.92017 -21.9236,88.58521 h 28.3401 V 413.5163 l 0.027,-0.007 7.3628,29.76959 7.3714,-29.77441 0.028,0.007 v 90.17737 h 28.3399 l -21.9221,-88.58911 88.5871,21.92407 v -28.34009 h -90.1748 l -0.01,-0.0268 29.7715,-7.36328 -29.772,-7.37073 0.01,-0.0292 h 90.1748 V 365.5542 l -88.5867,21.92157 21.9217,-88.58655 z"
+       id="polygon4520"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

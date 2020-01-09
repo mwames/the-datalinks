@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="56.51239mm"
+   height="55.823975mm"
+   viewBox="0 0 56.512389 55.823972"
+   version="1.1"
+   id="svg795"
+   inkscape:version="0.92.4 (f8dce91, 2019-08-02)"
+   sodipodi:docname="organic_superlubricant.svg">
+  <defs
+     id="defs789" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="22.843747"
+     inkscape:cy="233.32514"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="446"
+     inkscape:window-height="439"
+     inkscape:window-x="1205"
+     inkscape:window-y="767"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata792">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-31.44318,-94.267114)">
+    <path
+       inkscape:connector-curvature="0"
+       d="M 87.733279,111.13141 76.673748,94.50505 c -0.291068,-0.436616 -0.971127,-0.232887 -0.971127,0.290988 v 12.017432 h -38.50476 c -0.439182,0 -0.79375,0.35449 -0.79375,0.79375 v 8.51426 c 0,0.43918 0.354568,0.79375 0.79375,0.79375 h 4.344458 l -9.876869,14.8458 c -0.29636,0.4445 -0.29636,1.02126 0,1.46574 l 11.05961,16.62644 c 0.290989,0.43654 0.970994,0.23281 0.970994,-0.29107 v -12.01735 h 38.504893 c 0.439102,0 0.79375,-0.35456 0.79375,-0.79375 v -8.51426 c 0,-0.43926 -0.354648,-0.79375 -0.79375,-0.79375 h -4.344564 l 9.876896,-14.8458 c 0.296386,-0.4445 0.296386,-1.02126 0,-1.46582 z m -7.384415,18.95745 v 4.8101 H 41.050221 v 7.65966 l -6.696631,-10.06475 6.696631,-10.0647 v 7.65969 z m -34.861581,-8.18621 c 0,-2.22517 1.804406,-4.02965 4.029605,-4.02965 2.225198,0 4.029604,1.80448 4.029604,4.02965 0,2.22777 -1.804406,4.03225 -4.029604,4.03225 -2.225199,0 -4.029605,-1.80448 -4.029605,-4.03225 z m 9.525,0.58209 c 0,-2.2252 1.804406,-4.02961 4.029605,-4.02961 2.225199,0 4.029605,1.80441 4.029605,4.02961 0,2.22776 -1.804406,4.03225 -4.029605,4.03225 -2.225199,0 -4.029605,-1.80449 -4.029605,-4.03225 z m 9.490632,0 c 0,-2.2252 1.804432,-4.02961 4.032197,-4.02961 2.225172,0 4.029604,1.80441 4.029604,4.02961 0,2.22776 -1.804432,4.03225 -4.029604,4.03225 -2.227765,0 -4.032197,-1.80449 -4.032197,-4.03225 z m 13.84554,-0.55565 V 114.2694 H 39.049944 v -4.8101 h 39.298511 v -7.65974 l 6.696763,10.06475 z"
+       id="path4662"
+       style="fill:#e1561c;fill-opacity:1;stroke-width:0.26458332" />
+  </g>
+</svg>

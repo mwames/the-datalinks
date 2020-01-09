@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32.300339mm"
+   height="52.187561mm"
+   viewBox="0 0 32.300339 52.187561"
+   version="1.1"
+   id="svg6395"
+   inkscape:version="0.92.4 (f8dce91, 2019-08-02)"
+   sodipodi:docname="applied_physics.svg">
+  <defs
+     id="defs6389" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="241.04001"
+     inkscape:cy="161.47929"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="446"
+     inkscape:window-height="439"
+     inkscape:window-x="444"
+     inkscape:window-y="576"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata6392">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-42.058164,-139.3705)">
+    <g
+       transform="matrix(0.26458333,0,0,0.26458333,-54.533378,134.37617)"
+       id="g3766"
+       style="fill:#e1561c;fill-opacity:1">
+      <circle
+         cx="426.10825"
+         cy="169.89691"
+         r="46.223633"
+         id="circle3756"
+         style="fill:#e1561c;fill-opacity:1" />
+      <polygon
+         points="487.15042,18.876213 426.11044,119.80621 365.0704,18.876213 377.9404,18.876213 426.11044,98.546257 474.28043,18.876213 "
+         id="polygon3758"
+         style="fill:#e1561c;fill-opacity:1" />
+      <polygon
+         points="470.65042,18.876213 426.11044,92.516228 381.5704,18.876213 394.4404,18.876213 426.11044,71.256218 457.78043,18.876213 "
+         id="polygon3760"
+         style="fill:#e1561c;fill-opacity:1" />
+      <polygon
+         points="454.15042,18.876213 426.11044,65.236198 398.0704,18.876213 410.93039,18.876213 426.11044,43.97625 441.29044,18.876213 "
+         id="polygon3762"
+         style="fill:#e1561c;fill-opacity:1" />
+      <polygon
+         points="437.65042,18.876213 426.11044,37.94622 414.5704,18.876213 "
+         id="polygon3764"
+         style="fill:#e1561c;fill-opacity:1" />
+    </g>
+  </g>
+</svg>

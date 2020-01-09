@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="51.064575mm"
+   height="51.064583mm"
+   viewBox="0 0 51.064578 51.064584"
+   version="1.1"
+   id="svg883"
+   inkscape:version="0.92.4 (f8dce91, 2019-08-02)"
+   sodipodi:docname="superconductor.svg">
+  <defs
+     id="defs877" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="363.29034"
+     inkscape:cy="7.8949723"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="446"
+     inkscape:window-height="440"
+     inkscape:window-x="1255"
+     inkscape:window-y="1048"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata880">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(45.357305,-44.841826)">
+    <path
+       inkscape:connector-curvature="0"
+       d="M -45.357305,44.841826 V 95.906408 H 5.7072695 V 44.841826 Z M 3.0614362,93.260575 H -42.711472 V 47.48766 H 3.0614362 Z"
+       id="path3784"
+       style="fill:#e1561c;fill-opacity:1;stroke-width:0.26458332" />
+    <path
+       transform="matrix(0.26458333,0,0,0.26458333,-296.39615,-35.932614)"
+       style="fill:#e1561c;fill-opacity:1"
+       d="m 1021.1282,353.5192 -0.27,45.07 -54.54997,-42.96997 v -32.83001 h 157.99997 v 58.13998 l -49.95,-30.53 v 26.77002 z"
+       id="polygon3786"
+       inkscape:connector-curvature="0" />
+    <path
+       transform="matrix(0.26458333,0,0,0.26458333,-296.39615,-35.932614)"
+       style="fill:#e1561c;fill-opacity:1"
+       d="m 1035.0382,438.71921 9.77,-46.84998 45.55,5.26996 v -24.5 l 33.95,9.79004 v 98.35999 H 966.30823 l 21.11987,-60.40003 z"
+       id="polygon3788"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
