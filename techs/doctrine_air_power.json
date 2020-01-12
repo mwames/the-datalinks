@@ -1,0 +1,27 @@
+{
+    "name": "Doctrine: Air Power",
+    "track": "EXPLORE",
+    "level": 5,
+    "tag": "Let us return to the air",
+    "base_facilities": [
+        "Aerospace Complex"
+    ],
+    "technologies": [
+        "Mind/Machine Interface",
+        "Orbital Spaceflight"
+    ],
+    "unit_advances": [
+        "Needlejet (8)",
+        "Air Superiority"
+    ],
+    "miscellaneous": [
+        "Formers can execute the \"Construct Airbase\" order."
+    ],
+    "quote": {
+        "text": "Air Power rests at the apex of the first triad of victory, for it combines Mobility, Flexibility, and Initiative",
+        "by": "Spartan Battle manual",
+        "work": "",
+        "datalinks": false
+    },
+    "description": "The colonists had brought the knowledge of atmospheric flight to Planet, but not the materials to build and maintain large quantities of aircraft in Planet's harsh conditions. With the discovery of Synthetic Fossil Fuels (E4) for materials and a renewed emphasis on Doctrine: Flexibility (E2), pilots can again make the leap into the clouds."
+}

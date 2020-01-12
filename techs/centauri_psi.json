@@ -1,0 +1,29 @@
+{
+    "name": "Centauri Psi",
+    "track": "EXPLORE",
+    "level": 8,
+    "tag": "Harness the Psi powers of the Mind Worm",
+    "base_facilities": [],
+    "technologies": [
+        "The Will to Power",
+        "Secrets of Alpha Centauri",
+        "Sentient Resonance"
+    ],
+    "unit_advances": [
+        "Psi Attack (Psi)",
+        "Dissociative Wave",
+        "Sealurk"
+    ],
+    "miscellaneous": [
+        "Formers can improve fungus squares.",
+        "Fungus movement restrictions eased.",
+        "Increases NUTRIENT production in fungus squares."
+    ],
+    "quote": {
+        "text": "The Mind Worms are the natural defenses of the living Planet -- the white blood cells, if you will. In a world in which unassimilated thought represents danger, the Mind Worms seek out concentrations of sentient mental energy and destroys them, ruthlessly and efficiently.",
+        "by": "Commissioner Pravin Lal",
+        "work": "Mind Worm, Mind Worm",
+        "datalinks": false
+    },
+    "description": "Centauri Genetics (E6) and Advanced Ecological Engineering (B10) revealed the physical composition of native life forms, but did not explain the mysterious and terrifying psionic attacks these creatures employ. Unlocking the mechanics of the directed, psychic assault requires intense investigation of Centauri Psi -- the method used by the Mind Worms to communicate and co-ordinate their assaults."
+}

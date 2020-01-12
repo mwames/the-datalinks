@@ -1,0 +1,23 @@
+{
+    "name": "Ecological Engineering",
+    "track": "EXPLORE",
+    "level": 4,
+    "tag": "We can reshape this world",
+    "base_facilities": [],
+    "technologies": [
+        "Centauri Meditation",
+        "Environmental Economics"
+    ],
+    "unit_advances": [],
+    "miscellaneous": [
+        "Mineral restrictions lifted; can produce 3+ minerals/square.",
+        "Formers can execute the 'Plant Fungus' order."
+    ],
+    "quote": {
+        "text": "The prevalence of anoxic environments rich in organic material, combined with the presence of nitrated compounds has led to an astonishing variety of underground organisms which live in the absence of oxygen and \"breathe\" nitrate. Likewise, the scarcity of carbon in the environment has forced plants to economize on its use. Thus, all our efforts to return carbon to the biosphere will encourage native life to proliferate. Conversely, the huge quantities of nitrate in the soil will be heaven to human farmers.",
+        "by": "Lady Deirdre Skye",
+        "work": "The Early Years",
+        "datalinks": false
+    },
+    "description": "Lifeforms have always shown remarkable skill at innovation and ingenuity in the face of environmental hurdles. Expansion on a new Planet highlights these traits once again in the form of Ecological Engineering. Based on the discoveries of Centauri Ecology (E1) and Gene Splicing (B3), this research leads to new ways of thriving within the existing ecosystem, rather than competing with it."
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Matter Editation",
+    "track": "BUILD",
+    "level": 12,
+    "tag": "Manipulate the smallest particles of matter",
+    "base_facilities": [
+        "Nanoreplicator",
+        "Clinical Immortality"
+    ],
+    "technologies": [
+        "Matter Transmission"
+    ],
+    "unit_advances": [
+        "Antimatter Plate (10)"
+    ],
+    "miscellaneous": [],
+    "quote": {
+        "text": "'Abort, Retry, Fail?' was the phrase some wormdog scrawled next to the door of the Edit Universe project room. And when the new dataspinners started working, fabricating their worlds on the huge organic comp systems, we'd remind them: if you see this message, always choose 'Retry.'",
+        "by": "Bad'l Ron, Wakener",
+        "work": "Morgan Polysoft",
+        "datalinks": false
+    },
+    "description": "Not long after the breakthroughs in Super Tensile Solids (B10) and Self-Aware Machines (B11), engineers clamor to research the last major hurdle in physical manipulation -- Matter Editation. This technique actually changes the physical structure of individual atoms, altering characteristics like energy states, spin, atomic weight, and the number of protons as though they were entries in a database. This technology is the modern embodiment of the ancient quest to turn lead into gold - transmutation of elements made possible by atomic manipulation."
+}

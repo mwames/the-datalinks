@@ -1,0 +1,23 @@
+{
+    "name": "Quantum Machinery",
+    "track": "BUILD",
+    "level": 12,
+    "tag": "Immensely powerful machines",
+    "base_facilities": [
+        "Quantum Converter"
+    ],
+    "technologies": [
+        "Graviton Theory"
+    ],
+    "unit_advances": [
+        "Quantum Laser (16)"
+    ],
+    "miscellaneous": [],
+    "quote": {
+        "text": "Men in their arrogance claim to understand the nature of creation, and devise elaborate theories to describe its behavior. But always they discover in the end that God was quite a bit more clever than they thought.",
+        "by": "Sister Miriam Godwinson",
+        "work": "We Must Dissent",
+        "datalinks": false
+    },
+    "description": "The discovery of Quantum Power (D11) ushers in a new industrial revolution. In factories across Planet, tiny Quantum Machinery built using Nanometallurgy (E8) techniques provide amazingly powerful and efficient labor for every imaginable type of production and service."
+}

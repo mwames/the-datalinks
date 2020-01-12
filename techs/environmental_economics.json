@@ -1,0 +1,26 @@
+{
+    "name": "Environmental Economics",
+    "track": "BUILD",
+    "level": 5,
+    "tag": "An economy both lucrative and green",
+    "base_facilities": [
+        "Tree Farm"
+    ],
+    "technologies": [
+        "Adv. Ecological Engineering"
+    ],
+    "unit_advances": [],
+    "miscellaneous": [
+        "Energy restrictions lifted; can produce 3+ energy/square.",
+        "Increases COMMERCE income from Treaties and Pacts.",
+        "Formers can execute the \"Terraform UP\" order.",
+        "Formers can execute the \"Terraform DOWN\" order."
+    ],
+    "quote": {
+        "text": "We sit together,\nthe mountain and I,\nuntil only the mountain remains",
+        "by": "Li Po",
+        "work": "From the Yang Collection",
+        "datalinks": false
+    },
+    "description": "Industrial expansion often comes at the cost of ecological stability. The business practice of Environmental Economics addresses the problem by finding and exploiting areas where environmental and industrial concerns overlap, such as sustainable resource use, eco-tourism, and organic product development. By combining the principles of Industrial Economics (B2) and Ecological Engineering (E4) in this new business model, ecological stability becomes a profitable endeavor."
+}

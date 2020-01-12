@@ -1,0 +1,22 @@
+{
+    "name": "Adaptive Doctrine",
+    "track": "CONQUER",
+    "level": 3,
+    "tag": "Adapt military responses to each situation",
+    "base_facilities": [
+        "Advanced Military Algorithms"
+    ],
+    "technologies": [],
+    "unit_advances": [
+        "Pulse Armor (3)",
+        "Marine Detachment"
+    ],
+    "miscellaneous": [],
+    "quote": {
+        "text": "War is war; destruction is destruction. You think this is obvious. But war is not destruction, it is victory. To achieve victory, simply appear to give the opponent what he wants and he will go away, or join you in your quest for additional power.",
+        "by": "Datatech Sinder Roze",
+        "work": "Information Burns",
+        "datalinks": false
+    },
+    "description": "Adaptive Doctrine combines Polymorphic Software (D2) and Doctrine: Flexibility (E2) into a new military philosophy. This philosophy strives to match a doctrine to each battlefield, rather than trying to make one supreme doctrine for all possible environments."
+}

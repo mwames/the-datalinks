@@ -1,0 +1,28 @@
+{
+    "name": "Orbital Spaceflight",
+    "track": "DISCOVER",
+    "level": 6,
+    "tag": "Return to space",
+    "base_facilities": [
+        "Sky Hydroponics Lab"
+    ],
+    "technologies": [
+        "Advanced Spaceflight",
+        "N-Space Compression"
+    ],
+    "unit_advances": [
+        "Missile (12)",
+        "Planet Buster (99)",
+        "Conventional Payload (12)"
+    ],
+    "miscellaneous": [
+        "PROPOSAL: Salvage Unity Fusion Core"
+    ],
+    "quote": {
+        "text": "I have often been asked: If we have traveled between stars, why can we not launch the simplest of orbital probes? These fools fail to understand the difficulty of finding the appropriate materials on this planet, of developing adequate power supplies, and creating the infrastructure necessary to support such an effort. In short, we have struggled under the limitations of a colonial society on a virgin planet. Unit now.",
+        "by": "Col. Corazon Santiago",
+        "work": "Planet: A Survivalist's Guide",
+        "datalinks": false
+    },
+    "description": "The early colonists certainly bring the technical understanding of spaceflight with them, but the lack the materials and infrastructure necessary to construct spacecraft. Eventually, implementation of Doctrine: Air Power (E5) furnishes the Infrastructure, while advanced Pre-Sentient Algorithms (D5) provide the tools for mankind's return to Orbital Spaceflight."
+}

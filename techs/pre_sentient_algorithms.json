@@ -1,0 +1,28 @@
+{
+    "name": "Pre-Sentient Algorithms",
+    "track": "DISCOVER",
+    "level": 5,
+    "tag": "Computers on the verge of self-awareness",
+    "base_facilities": [
+        "Covert Ops Center",
+        "The Hunter-Seeker Algorithm"
+    ],
+    "technologies": [
+        "Fusion Power",
+        "Probability Mechanics",
+        "Orbital Spaceflight"
+    ],
+    "unit_advances": [
+        "Polymorphic Encryption"
+    ],
+    "miscellaneous": [
+        "Increases Probe Team base morale"
+    ],
+    "quote": {
+        "text": "Begin with a function of arbitraty complexity. Feed it values, \"sense data\". Then, take your result, square it, and feed it back to your original function, adding a new set of sense data. Continue to feed your results back into the original function ad infinitum. What do you have? The fundamental principle of human conciousness.",
+        "by": "Academician Prokhor Zakharov",
+        "work": "The Feedback Principle",
+        "datalinks": false
+    },
+    "description": "The philosophy of Cyberethics (B4) and the technology of Advanced Military Algorithms (E3) pave the way for development of Pre-Sentient Algorithms. These open-ended neural net programs can sort and process exebytes of data, 'learning' as they do so and adapting to the world they observe."
+}

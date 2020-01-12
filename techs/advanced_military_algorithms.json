@@ -1,0 +1,30 @@
+{
+    "name": "Advanced Military Algorithms",
+    "track": "CONQUER",
+    "level": 4,
+    "tag": "Apply new tools to new kinds of warfare",
+    "base_facilities": [
+        "Punishment Sphere"
+    ],
+    "technologies": [
+        "Pre-Sentient Algorithms",
+        "Retroviral Engineering"
+    ],
+    "unit_advances": [
+        "Deep Radar",
+        "AAA Tracking"
+    ],
+    "miscellaneous": [
+        "Power",
+        "Formers can now execute the \"Construct Bunker\" order.",
+        "PROPOSAL: Repeal U.N. Charter",
+        "PROPOSAL: Reinstate U.N. Charter"
+    ],
+    "quote": {
+        "text": "Man has killed man from the beginning of time, and each new frontier has brought new ways and new places to die. Why should the future be different?",
+        "by": "Col. Corazon Santiago",
+        "work": "Planet: A Survivalist's Guide",
+        "datalinks": false
+    },
+    "description": "Military requirements have historically pushed technology forward, and no better example can be found than sophisticated software development. From the first computers, designed to calculate artillery shell trajectories, to Advanced Military Algorithms developed from Adaptive Doctrine (C3) and Optical Computers (D3), mankind has worked to extend warfare into the digital world."
+}

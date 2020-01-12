@@ -1,0 +1,63 @@
+.tech-card {
+    font-family: 'Roboto', sans-serif;
+    border-radius: 2rem;
+    border: 3px solid red;
+    display: flex;
+    flex-direction: row;
+    height: 14rem;
+    width: 27rem;
+
+    .tech-icon {
+        display: flex;
+        border-radius: 2rem;
+        justify-content: center;
+        align-items: center;
+        flex: 0 0 7rem;
+        
+        img {
+            height: 6rem;
+        }
+    }
+
+    .tech-info {
+        display: flex;
+        flex-direction: column;
+        flex-grow: 1 0 auto;
+        border-top-right-radius: 1.75rem;
+        border-bottom-right-radius: 1.75rem;
+        border: solid 4px black;
+        background-color: white;
+        padding-left: 1rem;
+
+        .name {
+            font-weight: bold;
+            font-size: 1.6rem;
+            text-align: center;
+        }
+
+        .track {
+            font-family: 'Arial Narrow';
+            font-weight: bold;
+            font-size: 1.6rem;
+            text-align: center;
+            &.conquer {
+                color: $color-conquer;
+            }
+            &.discover {
+                color: $color-discover;
+            }
+            &.explore {
+                color: $color-explore;
+            }
+            &.build {
+                color: $color-build;
+            }
+        }
+
+        .data {
+            div:not(:last-of-type) {
+                margin-bottom: .2rem;
+            }
+        }
+    }
+}

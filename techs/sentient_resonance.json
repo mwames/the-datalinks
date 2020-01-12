@@ -1,0 +1,22 @@
+{
+    "name": "Sentient Resonance",
+    "track": "CONQUER",
+    "level": 9,
+    "tag": "Create sentient resonance fields",
+    "base_facilities": [],
+    "technologies": [
+        "Secrets of the Manifolds"
+    ],
+    "unit_advances": [
+        "Resonance Bolt (12)",
+        "Resonance Armor (8)"
+    ],
+    "miscellaneous": [],
+    "quote": {
+        "text": "And here we tinker with metal, to try to give it a kind of life, and suffer those who would scoff at our efforts. But who's to say that, if intelligence had evolved in some other form in past millenia, the ancestors of these beings would not now scoff at the idea of intelligence residing within meat?",
+        "by": "Prime Function Aki Zeta-Five",
+        "work": "The Fallacies of Self-Awareness",
+        "datalinks": false
+    },
+    "description": "Sentient Resonance is a further extension of Bioadaptive Resonance (C4) and Centauri Psi (E8) that allows the creation of self-aware resonance fields."
+}

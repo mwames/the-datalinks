@@ -1,0 +1,31 @@
+{
+    "name": "Industrial Automation",
+    "track": "BUILD",
+    "level": 3,
+    "tag": "Robotics can help us build an empire",
+    "base_facilities": [
+        "Hab Complex",
+        "The Planetary Transit System"
+    ],
+    "technologies": [
+        "Silksteel Alloys",
+        "Doctrine: Initiative",
+        "Neural Grafting",
+        "Industrial Nanorobotics"
+    ],
+    "unit_advances": [
+        "Supply Transport (Equipment)",
+        "Supply Crawler"
+    ],
+    "miscellaneous": [
+        "Wealth",
+        "Increases COMMERCE income from Treaties and Pacts"
+    ],
+    "quote": {
+        "text": "In the borehole pressure mines 100km beneath Planetsurface, at the Mohorovicic Discontinuity where crust gives way to mantle, temperatures often reach levels well in excess of 1000 degrees Celsius. Exploitation of Planet's resources under such brutal conditions has required quantum advances in robotic and teleoperational technology.",
+        "by": "Morgan Industries, Ltd.",
+        "work": "Annual Report",
+        "datalinks": false
+    },
+    "description": "The creation of Planetary Networks (D2) and widespread adoption of Industrial Economics (B2) lead to rapid industrializations of the virgin Planet. Lacking the traditional masses of Earth's working class, leaders must now develop complete Industrial Automation for production and assembly, building modest factories where all repetitive nonskilled jobs, from janitor to VP of Sales, are handled by sophisticated robotics."
+}

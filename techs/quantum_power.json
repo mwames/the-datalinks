@@ -1,0 +1,23 @@
+{
+    "name": "Quantum Power",
+    "track": "DISCOVER",
+    "level": 11,
+    "tag": "Create incredible power by splitting light itself",
+    "base_facilities": [
+        "Quantum Lab"
+    ],
+    "technologies": [
+        "Quantum Machinery"
+    ],
+    "unit_advances": [
+        "Quantum Chamber"
+    ],
+    "miscellaneous": [],
+    "quote": {
+        "text": "Heaven lasts long, and Earth abides\nWhat is the secret of their durability?\nIs it because they do not live for themselves\nThat they endure so long?",
+        "by": "Lao Tzu",
+        "work": "",
+        "datalinks": true
+    },
+    "description": "Earth scientist Max Planck first coined the term \"quantum\" to describe an individual particle of light. Planck thought each quantum was indivisible, so that a fraction of a quantum could not exist. One of the more startling discoveries arising from Unified Field Theory (C7) was that individual quantum actually could be split into component sub-particles, much like atoms may be split through fission. The energy released by Quantum Power is sever orders of magnitude greater than ordinary Fusion Power."
+}

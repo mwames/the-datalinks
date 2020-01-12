@@ -1,0 +1,25 @@
+{
+    "name": "Adv. Ecological Engineering",
+    "track": "BUILD",
+    "level": 7,
+    "tag": "The last word in Terraforming",
+    "base_facilities": [],
+    "technologies": [
+        "Centauri Psi"
+    ],
+    "unit_advances": [
+        "Super Former"
+    ],
+    "miscellaneous": [
+        "+1 Mineral bonus for all Mining Platforms",
+        "Formers can execute the \"Construct Soil Enricher\" order.",
+        "PROPOSAL: Melt Polar Caps"
+    ],
+    "quote": {
+        "text": "You are the children of a dead planet, earthdeirdre, and this death we do not comprehend. We shall take you in, but may we ask this question -- will we too catch the planetdeath disease?",
+        "by": "Lady Deirdre Skye",
+        "work": "Conversations with Planet",
+        "datalinks": false
+    },
+    "description": "The discovery of Fusion Power (D6) opened up staggering possibilities in a number of endeavors, including the field of Environmental Economics (B5). Based on the cumulative experience from thousands of construction projects undertaken since Planetfall, Advanced Ecological Engineering marks a new milestone in man's ability to manipulate his environment."
+}

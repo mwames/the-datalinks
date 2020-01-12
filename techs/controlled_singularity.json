@@ -1,0 +1,24 @@
+{
+    "name": "Controlled Singularity",
+    "track": "CONQUER",
+    "level": 15,
+    "tag": "Control the power of black holes",
+    "base_facilities": [
+        "The Singularity Inductor"
+    ],
+    "technologies": [
+        "String Resonance",
+        "Transcendent Thought"
+    ],
+    "unit_advances": [
+        "Singularity Laser"
+    ],
+    "miscellaneous": [],
+    "quote": {
+        "text": "Some would ask, how could a perfect God create a universe filled with so much evil. They have missed a greater conundrum: why would a perfect God create a universe at all?",
+        "by": "Sister Miriam Godwinson",
+        "work": "But for the Grace of God",
+        "datalinks": false
+    },
+    "description": "As engineers quickly discovered, it's one thing to understand Singularity Mechanics (D12) and another thing entirely to attempt Controlled Singularity -- harnessing and directing the powers of a black hole. Breakthroughs in Applied Gravitonics (E14) finally make this technology possible, with a host of amazing and potent applications, from radical new types of weaponry to global power sources."
+}

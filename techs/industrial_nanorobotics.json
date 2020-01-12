@@ -1,0 +1,25 @@
+{
+    "name": "Industrial Nanorobotics",
+    "track": "BUILD",
+    "level": 9,
+    "tag": "Miniature robotic factories",
+    "base_facilities": [
+        "Robotic Assembly Plant",
+        "The Nano Factory"
+    ],
+    "technologies": [
+        "Frictionless Surfaces",
+        "Digital Sentience"
+    ],
+    "unit_advances": [],
+    "miscellaneous": [
+        "Increases COMMERCE income from Treaties and Pacts."
+    ],
+    "quote": {
+        "text": "Already we have turned all of our critical industries, all or our material resources, over to these ... things ... these lumps of silver and paste we call nanorobots. And now we propose to teach them intelligence? What, pray tell, will we do when these little homunculi awaken one day and announce that they have no further need of us?",
+        "by": "Sister Miriam Godwinson",
+        "work": "We Must Dissent",
+        "datalinks": false
+    },
+    "description": "The business leaders of Planet quickly perceived the commercial potential of Nanominiturization (B8), and constructed factories based around Industrial Nanorobotics. These factories utilize traditional Industrial Automation (B3), but at a fraction of the size and cost. Productivity skyrockets along with profitability, as tiny robots churn out new products for consumption."
+}

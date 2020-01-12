@@ -1,0 +1,24 @@
+{
+    "name": "Advanced Subatomic Theory",
+    "track": "DISCOVER",
+    "level": 3,
+    "tag": "The search for the smallest particles of matter",
+    "base_facilities": [
+        "Skunkworks"
+    ],
+    "technologies": [
+        "Applied Relativity",
+        "Silksteel Alloys"
+    ],
+    "unit_advances": [
+        "Comm Jammer"
+    ],
+    "miscellaneous": [],
+    "quote": {
+        "text": "The substructure of the universe regresses infinitely towards smaller and smaller components. Behind atoms we find electrons, and behind electrons quarks. Each layer unraveled reveals new secrets, but also new mysteries.",
+        "by": "Academician Prokhor Zakharov",
+        "work": "For I Have Tasted the Fruit",
+        "datalinks": false
+    },
+    "description": "Discoveries in High Energy Chemistry (C2) point the way to a new Advanced Subatomic Theory that tries to detect and quantify the smallest possible underlying particles of matter. Using self-modifying Polymorphic Software (D2), the physicists developing this theory give mankind a window on the infinitesimal building blocks of the universe."
+}

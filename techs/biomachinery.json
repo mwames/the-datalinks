@@ -1,0 +1,22 @@
+{
+    "name": "Biomachinery",
+    "track": "BUILD",
+    "level": 7,
+    "tag": "Machinery integrated on a cellular level",
+    "base_facilities": [
+        "The Cloning Vats"
+    ],
+    "technologies": [
+        "Homo Superior",
+        "N-Space Compression"
+    ],
+    "unit_advances": [],
+    "miscellaneous": [],
+    "quote": {
+        "text": "I loved my chosen. How then to face the day when she left me? So I took her from her body a single cell, perhaps to love her again",
+        "by": "Commissioner Pravin Lal",
+        "work": "Time of Bereavement",
+        "datalinks": false
+    },
+    "description": "Early experiments in Retroviral Engineering (C5) and the Mind/Machine Interface (C6) paved the way for true Biomachinery -- the full integration of man and machine at the cellular level."
+}

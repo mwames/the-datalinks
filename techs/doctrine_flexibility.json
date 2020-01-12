@@ -1,0 +1,27 @@
+{
+    "name": "Doctrine: Flexibility",
+    "track": "EXPLORE",
+    "level": 2,
+    "tag": "Controle of Planet requires naval power",
+    "base_facilities": [
+        "Pressure Dome"
+    ],
+    "technologies": [
+        "Doctrine: Initiative",
+        "Doctrine: Air Power",
+        "Adaptive Doctrine"
+    ],
+    "unit_advances": [
+        "Foil (4)",
+        "Troop Transport",
+        "Transport Foil"
+    ],
+    "miscellaneous": [],
+    "quote": {
+        "text": "He held his arm too stiffly, and so was thrown back repeatedly, unit at last I seized his forearm and snapped it back against itself. His training suffered while the arm healed, of course, but I felt this was a lesson he must learn early, and well.",
+        "by": "Spartan Kel",
+        "work": "Honing the Ki",
+        "datalinks": false
+    },
+    "description": "Many radical young military officers felt that Doctrine: Mobility (E1) did not go far enough in the development of fast attacks and quick reconnaissance, because Mobility only takes land forces into account. These leaders work to create the first navies on Planet, based on Doctrine: Flexibility -- co-ordination and co-operation between forces made possible by control of the sea."
+}

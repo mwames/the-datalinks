@@ -1,0 +1,25 @@
+{
+    "name": "Polymorphic Software",
+    "track": "DISCOVER",
+    "level": 2,
+    "tag": "The first massive neural nets",
+    "base_facilities": [],
+    "technologies": [
+        "Advanced Subatomic Theory",
+        "Optical Computers",
+        "Adaptive Doctrine"
+    ],
+    "unit_advances": [
+        "Heavy Artillery"
+    ],
+    "miscellaneous": [
+        "Increases Probe Team base morale"
+    ],
+    "quote": {
+        "text": "Technological advance is an inherently iterative process. One does not take sand from the beach and produce a Dataprobe. We use crude tools to fashion better tools, and then our better tools to fashion more precise tools, and so on. Each minor refinement is a step in the process, and all of the steps must be taken.",
+        "by": "Chairman Sheng-ji Yang",
+        "work": "Looking God in the Eye",
+        "datalinks": false
+    },
+    "description": "On Earth, only theoretical mathematicians and entertainment software programmers used Polymorphic Software -- self-modifying code -- to any success. On Planet, the requirements of the budding Industrial Base (B1) and Information Networks (D1) spur widespread development of neural net applications that rewrite themselves in response to data inputs."
+}

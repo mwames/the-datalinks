@@ -1,0 +1,23 @@
+{
+    "name": "Synthetic Fossil Fuels",
+    "track": "EXPLORE",
+    "level": 4,
+    "tag": "Man-made oil, coal, and natural gas",
+    "base_facilities": [],
+    "technologies": [
+        "Doctrine: Air Power",
+        "Organic Superlubricant"
+    ],
+    "unit_advances": [
+        "Missile Launcher (6)",
+        "Fungicide Tanks"
+    ],
+    "miscellaneous": [],
+    "quote": {
+        "text": "Fossil fuels in the last century reached their extreme prices because of their inherent utility: they pack a great deal of potential energy into an extremely efficient package. If we can but sidestep the 100 million year production process, we can corner this market once again.",
+        "by": "CEO Nwabudike Morgan",
+        "work": "Strategy Session",
+        "datalinks": false
+    },
+    "description": "The extreme efficiency with which the neural net fungus managed Planet's vast ecosystem kept extensive deposits of organic material from forming over the epochs. Because of this lack, the fossil fuels on Earth never developed, forcing early colonists to rely on less efficient alternative sources of energy. However, advances in Advanced Subatomic Theory (B3) and Gene Splicing (B3) finally allow scientists to short-circuit the eons-long process, providing them with Synthetic Fossil Fuels needed to build advanced vehicles and machinery."
+}

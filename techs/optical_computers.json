@@ -1,0 +1,20 @@
+{
+    "name": "Optical Computers",
+    "track": "DISCOVER",
+    "level": 3,
+    "tag": "Computations at the speed of light",
+    "base_facilities": [],
+    "technologies": [
+        "Superconductor",
+        "Advanced Military Algorithms"
+    ],
+    "unit_advances": [],
+    "miscellaneous": [],
+    "quote": {
+        "text": "We have reached an informational threshold which can only be crossed by harnessing the speed of light directly. The quickest computations require the fastest possible particles moving along the shortest paths. Since the capability now exists to take our information directly from photons traveling molecular distances, the final act of the information revolution will soon be upon us.",
+        "by": "Academician Prokhor Zakharov",
+        "work": "For I Have Tasted The Fruit",
+        "datalinks": false
+    },
+    "description": "The widespread adoption of Polymorphic Software (D2) increased demand for faster computers. The revolutionary Optical Computers, which use photons traveling at the speed of light for binary calculations, prove nearly 70% faster than old electron based devices. Based on successes in Applied Physics (C1), Optical Computers also exponentially improve storage capacities and access times."
+}

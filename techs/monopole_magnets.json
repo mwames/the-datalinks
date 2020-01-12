@@ -1,0 +1,22 @@
+{
+    "name": "Monopole Magnets",
+    "track": "BUILD",
+    "level": 6,
+    "tag": "The secrets of magnetism",
+    "base_facilities": [
+        "Unified Field Theory",
+        "Nanominiturization"
+    ],
+    "technologies": [],
+    "unit_advances": [],
+    "miscellaneous": [
+        "Formers can execute the \"Build Mag Tube\" order."
+    ],
+    "quote": {
+        "text": "I maintain nonetheless that yin-yang dualism can be overcome. With sufficient enlightenment we can give substance to any distinction: mind without body, north without south, pleasure without pain. Remember, enlightenment is a function of willpower, not of physical strength.",
+        "by": "Chairman Sheng-ji Yang",
+        "work": "Essays on Mind and Matter",
+        "datalinks": false
+    },
+    "description": "Magnetism, like electricity and gravity, is one of the fundamental forces of the universe. Prior to research in Superstring Theory (C5) and Silksteel Alloys (E4), all known magnets were dipolar, with a north and south pole. Development of a Monopole Magnet permits radical new applications for science and industry."
+}

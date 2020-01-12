@@ -1,0 +1,23 @@
+{
+    "name": "Bio-Engineering",
+    "track": "BUILD",
+    "level": 5,
+    "tag": "Unlock the last secrets of genetics",
+    "base_facilities": [
+        "The Longevity Vaccine"
+    ],
+    "technologies": [
+        "Retroviral Engineering"
+    ],
+    "unit_advances": [
+        "Clean Reactor"
+    ],
+    "miscellaneous": [],
+    "quote": {
+        "text": "Why do you insist that the human genetic code is \"sacred\" or \"taboo\"? It is a chemical process and nothing more. For that matter -we- are chemical processes and nothing more. If you deny yourself a useful tool simply because it reminds you uncomfortably of your mortality, you have uselessly and pointlessly crippled yourself.",
+        "by": "Chairman Sheng-ji Yang",
+        "work": "Looking God in the Eye",
+        "datalinks": false
+    },
+    "description": "Gene Splicing (B3) and Neural Grafting (C4) exemplify crude and invasive techniques for modifying an organism. The more refined Bio-Engineering method arranges a desired genetic code directly from the component compounds, enabling widespread and economical cellular transplants for an entire population."
+}

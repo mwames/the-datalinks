@@ -1,0 +1,24 @@
+{
+    "name": "Cyberethics",
+    "track": "BUILD",
+    "level": 4,
+    "tag": "Defining the role of computers in society",
+    "base_facilities": [
+        "The Planetary Datalinks"
+    ],
+    "technologies": [
+        "Superstring Theory",
+        "Pre-Sentient Algorithms"
+    ],
+    "unit_advances": [],
+    "miscellaneous": [
+        "Knowledge"
+    ],
+    "quote": {
+        "text": "The wicked have told me of things that delight them, but not such things as your law has to tell.",
+        "by": "Saint Augustine",
+        "work": "Confessions",
+        "datalinks": true
+    },
+    "description": "Widespread adoption of Planetary Networks (D2) and the philosophy of Intellectual Integrity (E3) allows for a coherent system of Cyberethics, outlining the proper relationship of computers to society."
+}

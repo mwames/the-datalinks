@@ -1,0 +1,22 @@
+{
+    "name": "Applied Relativity",
+    "track": "DISCOVER",
+    "level": 5,
+    "tag": "Updating Einstein's theories",
+    "base_facilities": [
+        "The Supercollider"
+    ],
+    "technologies": [
+        "Unified Field Theory",
+        "Photon/Wave Mechanics"
+    ],
+    "unit_advances": [],
+    "miscellaneous": [],
+    "quote": {
+        "text": "Your ivory tower of intellectuals must not lose touch with the world of industrial growth and hard currency. It is all very wll and good to pursue these high-minded scientific theories, but research grants are expensive and you must justify your existence by providing not only knowledge, but concrete and profitable applications as well.",
+        "by": "CEO Nwabudike Morgan",
+        "work": "The Ethics of Greed",
+        "datalinks": false
+    },
+    "description": "Albert Einstein developed his theories of relativity between 1905 and 1916; complete explanations of his work may be found in a number of sources. Later research into Advanced Subatomic Theories (B3) and Superconductors (C4) demonstrated that his postulates, though innovative for his time, were incomplete. Applied Relativity takes Einstein's basic theories and updates them to encompass an understanding of newly-discovered phenomena."
+}

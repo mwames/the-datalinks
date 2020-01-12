@@ -1,0 +1,22 @@
+{
+    "name": "Homo Superior",
+    "track": "EXPLORE",
+    "level": 8,
+    "tag": "Let us evolve our brains and bodies",
+    "base_facilities": [
+        "Nanohospital",
+        "The Universal Translator"
+    ],
+    "technologies": [
+        "The Will to Power"
+    ],
+    "unit_advances": [],
+    "miscellaneous": [],
+    "quote": {
+        "text": "Companions the creator seeks, not corpses, not herds and believers. Fellow creators the creator seeks -- those who write new values on new tablets. Companions the creator seeks, and fellow harvesters; for everything about him is ripe for the harvest.",
+        "by": "Friedrich Nietzsche",
+        "work": "Thus Spoke Zarathustra",
+        "datalinks": true
+    },
+    "description": "Breakthroughs in Biomachinery (B9) and Doctrine: Initiative (E5) paved the way for a new kind of organism that is equal parts biological and computer. The biological aspect thrives at physical manipulations and emotional experiences, while the digital aspect excels at calculations and data processing. This Homo Superior integrates the best of biological and machine."
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Applied Gravitonics",
+    "track": "EXPLORE",
+    "level": 14,
+    "tag": "Control the forces of gravity",
+    "base_facilities": [],
+    "technologies": [
+        "Controlled Singularity"
+    ],
+    "unit_advances": [
+        "Graviton Gun (20)"
+    ],
+    "miscellaneous": [],
+    "quote": {
+        "text": "What goes up ... better doggone well stay up!",
+        "by": "Morgan Gravitonics",
+        "work": "Company Slogan",
+        "datalinks": false
+    },
+    "description": "Once physicists discover Graviton Theory (E13), they turn their attention to Applied Gravitonics -- the control of gravity itself. By controlling and manipulating the graviton strings that carry gravitational force, mankind can levitate objects regardless of mass or proximity to other objects."
+}

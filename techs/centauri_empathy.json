@@ -1,0 +1,29 @@
+{
+    "name": "Centauri Empathy",
+    "track": "EXPLORE",
+    "level": 3,
+    "tag": "We must learn the Planet's ways",
+    "base_facilities": [
+        "Biology Lab",
+        "The Empath Guild"
+    ],
+    "technologies": [
+        "Centauri Meditation",
+        "Bioadaptive Resonance"
+    ],
+    "unit_advances": [
+        "Empath Song",
+        "Mind Worms"
+    ],
+    "miscellaneous": [
+        "Green",
+        "Roads can be built in fungus squares"
+    ],
+    "quote": {
+        "text": "Observe the Razorbeak as it tends so carefully to the fungal blooms; just the right bit from the yellow, then switch to the pink. Follow the Glow Mites as they gather and organize the fallen spores. What higher guides their work? Mark my words: someone or something is managing the ecology of this planet.",
+        "by": "Lady Deirdre Skye",
+        "work": "Planet Dreams",
+        "datalinks": false
+    },
+    "description": "Based on Secret of the Human Brain (D2) and Centauri Ecology (E1), Centauri Empathy espouses a philosophy of environmental harmony, emphasizing the search for mankind's proper niche in the global ecosystem."
+}

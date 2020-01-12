@@ -1,0 +1,26 @@
+{
+    "name": "Industrial Economics",
+    "track": "BUILD",
+    "level": 2,
+    "tag": "Even on Planet, industry creates wealth",
+    "base_facilities": [
+        "Energy Bank"
+    ],
+    "technologies": [
+        "Industrial Automation",
+        "Environmental Economics",
+        "Adaptive Economics"
+    ],
+    "unit_advances": [],
+    "miscellaneous": [
+        "Free Market",
+        "Increases COMMERCE Income from Treaties and Pacts."
+    ],
+    "quote": {
+        "text": "Our first challenge is to create an entire economic infrastructure, from top to bottom, out of whole cloth. No gradual evolution from previous economic systems is possible, because there IS no previous economic system. Each interdependent piece must be materialized simultaneously and in perfect working order; otherwise the system will crash out before it ever gets off the gound.",
+        "by": "CEO Nwabudike Morgan",
+        "work": "The Centauri Monopoly",
+        "datalinks": false
+    },
+    "description": "Early industry on Planet centered on the creation of a frontier Industrial Base (B1) featuring primitive assembly lines and simple currency instruments. Soon, leaders in the financial sectors push for a more comprehensive Industrial Economics policy to accommodate free trade and other strategies for multiplying capital."
+}

@@ -1,0 +1,26 @@
+{
+    "name": "Industrial Base",
+    "track": "BUILD",
+    "level": 1,
+    "tag": "Bootstrap our industrial infrastructure",
+    "base_facilities": [
+        "The Merchant Exchange"
+    ],
+    "technologies": [
+        "Superconductor",
+        "High Energy Chemistry",
+        "Polymorphic Software",
+        "Industrial Economics"
+    ],
+    "unit_advances": [
+        "Synthmetal Armor (2)"
+    ],
+    "miscellaneous": [],
+    "quote": {
+        "text": "Resources exist to be consumed. And consumed they will be, if not by this generation then by some future. By what right does this forgotten future seek to deny us our birthright? None I say! Let us take what is ours, chew and eat our fill.",
+        "by": "CEO Nwabudike Morgan",
+        "work": "The Ethics of Greed",
+        "datalinks": false
+    },
+    "description": "The first colonies lack any kind of factories or heavy industry, so the creation of an Industrial Base becomes a high priority for economic growth. This Industrial Base emphasizes small-scale manufacturing with primitive assembly lines and simple currency instruments"
+}

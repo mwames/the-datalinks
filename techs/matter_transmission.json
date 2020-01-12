@@ -1,0 +1,26 @@
+{
+    "name": "Matter Transmission",
+    "track": "BUILD",
+    "level": 13,
+    "tag": "Transmit objects from one end of Planet to the other",
+    "base_facilities": [
+        "Psi Gate",
+        "The Bulk Matter Transmitter"
+    ],
+    "technologies": [
+        "Temporal Mechanics"
+    ],
+    "unit_advances": [
+        "Blink Displacer"
+    ],
+    "miscellaneous": [
+        "Increases MINERALS production in fungus squares."
+    ],
+    "quote": {
+        "text": "The first living thing to go through the device was a small white rat. I still have him, in fact. As you can see, the damage was not so great as the say.",
+        "by": "Academician Prokhor Zakharov",
+        "work": "See How They Run",
+        "datalinks": false
+    },
+    "description": "Matter Editation (B16) and Secrets of Alpha Centauri (D12) point the way to one of the most celebrated concepts in science fiction -- Matter Transmission. Transmitters based on this technology disassemble objects into the smallest component sub-particles, then transmit those particles and their underlying structural blueprint to a receiver. The receiver reassembles these objects according to the blueprint, recreating the original in every nuance and detail."
+}

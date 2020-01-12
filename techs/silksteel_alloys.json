@@ -1,0 +1,22 @@
+{
+    "name": "Silksteel Alloys",
+    "track": "BUILD",
+    "level": 4,
+    "tag": "Strong, flexible metals for construction and defense",
+    "base_facilities": [],
+    "technologies": [
+        "Monopole Magnets",
+        "Photon/Wave Mechanics"
+    ],
+    "unit_advances": [
+        "Silksteel Armor (4)"
+    ],
+    "miscellaneous": [],
+    "quote": {
+        "text": "Until quite recently, spider silk had the highest tensile strength of any substance known to man, and the name Silksteel pays homage to the arachnid for good reason.",
+        "by": "Commissioner Pravin Lal",
+        "work": "U.N. Scientific Survey",
+        "datalinks": false
+    },
+    "description": "The growing field of Industrial Automation (B3) causes increased demand for new kinds of materials that can withstand the incredible stresses of the robotic factories. Discoveries in Advanced Subatomic Theory (B3) provide engineers with these materials, dubbed Silksteel Alloys for their extraordinary tensile strength and flexibility."
+}

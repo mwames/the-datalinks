@@ -1,0 +1,24 @@
+{
+    "name": "Sentient Econometrics",
+    "track": "EXPLORE",
+    "level": 11,
+    "tag": "Using intelligent computers to predict the economy",
+    "base_facilities": [
+        "Paradise Garden"
+    ],
+    "technologies": [
+        "Eudaimonia",
+        "Secrets of Alpha Centauri"
+    ],
+    "unit_advances": [],
+    "miscellaneous": [
+        "Increases COMMERCE income from Treaties and Pacts."
+    ],
+    "quote": {
+        "text": "The fungus has been Planet's dominant lifeform since about the time of the Lower Paleozoic on Earth. But when, once every hundred million years or so, the neural net at last achieves the critical mass necessary to become sentient, the final metamorphosis kills off most of the other life on the planet. It is possible that we humans can help break this tragic cycle.",
+        "by": "Lady Deirdre Skye",
+        "work": "Planet Dreams",
+        "datalinks": false
+    },
+    "description": "For all the sophistication of its mathematical models, Planetary Economics (B4) proved no better at predicting the actions of markets and populations than Wall Street prognogticators of the 20th Century Earth - there are too many unknown variables with unforseeable consequences. Proponents of Sentient Econometrics take the best 'intelligent computers' developed under Digital Sentience (D10) and set them to identifying there variables and predicting their consequences. Under their diligent efforts, economics finally becomes a true science."
+}

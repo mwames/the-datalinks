@@ -1,0 +1,19 @@
+{
+    "name": "String Resonance",
+    "track": "CONQUER",
+    "level": 16,
+    "tag": "Destroy the fundamental building blocks of the universe",
+    "base_facilities": [],
+    "technologies": [],
+    "unit_advances": [
+        "String Disruptor (30)"
+    ],
+    "miscellaneous": [],
+    "quote": {
+        "text": "To understand a thing is to know the manner by which it might be destroyed. A fundamental understanding of the basic building-blocks of the Universe is essential, then, to the total destruction of everything.",
+        "by": "Foreman Domai",
+        "work": "One Tool, One Thought",
+        "datalinks": false
+    },
+    "description": "Based on Secrets of the Manifolds (D10) and Controlled Singularity (C15), String Resonance allows the manipulation of resonance fields at even the \"string\" level (the one-dimensional building blocks of matter). The ability to manipulate the very structure of the universe allows for awesome destructive power."
+}

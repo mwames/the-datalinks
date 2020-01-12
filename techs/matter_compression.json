@@ -1,0 +1,22 @@
+{
+    "name": "Matter Compression",
+    "track": "CONQUER",
+    "level": 9,
+    "tag": "Create materials of extremely high density",
+    "base_facilities": [],
+    "technologies": [
+        "Super Tensile Solids"
+    ],
+    "unit_advances": [
+        "Neutronium Armor (8)",
+        "Fuel Nanocells"
+    ],
+    "miscellaneous": [],
+    "quote": {
+        "text": "Preliminary analysis indicates that our rivals have developed a safe and reliable method to simulate conditions existing on the interior of a stellar mass. The fabrication and transmutation of materials possible is such an environment guarantees significant industrial and military applications.",
+        "by": "Probe Team Operations Directorate",
+        "work": "Top Secret Report",
+        "datalinks": false
+    },
+    "description": "Breakthrough in Nanominiturization (B8) and Nanometallurgy (E8) lead to complex Matter Compression techniques. Using these techniques, scientists can create materials as dense as the inside of a star, with significant military and industrial applications."
+}

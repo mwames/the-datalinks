@@ -1,0 +1,25 @@
+{
+    "name": "Gene Splicing",
+    "track": "BUILD",
+    "level": 3,
+    "tag": "Enhancing plant and animal DNA",
+    "base_facilities": [
+        "Research Hospital"
+    ],
+    "technologies": [
+        "Synthetic Fossil Fuels",
+        "Bio-Engineering",
+        "Ecological Engineering"
+    ],
+    "unit_advances": [],
+    "miscellaneous": [
+        "Nutrient restrictions lifted; can produce 3+ nutrients/square."
+    ],
+    "quote": {
+        "text": "The genetic code does not, and cannot, specify the nature and position of every capillary in the body or every neuron in the brain. What it can do is describe the underlying fractal pattern which creates them.",
+        "by": "Academician Prokhor Zakharov",
+        "work": "Nonlinera Genetics",
+        "datalinks": false
+    },
+    "description": "Widespread adoption of the philosophy of Ethical Calculus (E2) removes opposition to genetic experimentation in plant and animal DNA, while advances in Biogenetics (D1) provides techniques for the incipient field of Gene Splicing. This technology allows researchers to insert new DNA coding into existing genetic material so that entire traits, from disease resistance to a stable personality, can be copied from one organism and transferred to any number of others."
+}

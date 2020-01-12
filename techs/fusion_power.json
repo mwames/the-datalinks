@@ -1,0 +1,26 @@
+{
+    "name": "Fusion Power",
+    "track": "DISCOVER",
+    "level": 6,
+    "tag": "A cheap, clean power source",
+    "base_facilities": [
+        "Fusion Lab"
+    ],
+    "technologies": [
+        "Adv. Ecological Engineering",
+        "Organic Superlubricant"
+    ],
+    "unit_advances": [
+        "Fusion Reactor"
+    ],
+    "miscellaneous": [
+        "Engineer"
+    ],
+    "quote": {
+        "text": "Our ancestors harnessed the power of the sun, and so again shall we.",
+        "by": "Commissioner Pravin Lal",
+        "work": "The Science of Our Fathers",
+        "datalinks": false
+    },
+    "description": "An extremely clean, powerful, and efficient source of enery, Fusion Power was known on Earth for decades as the reaction that powered the stars. However, scientists could not control the huge magnitude of released energy, so the only practical application for Fusion Power was in bombs of enormous destructive power. With the advent of Superconductors (C4), and by using Pre-Sentient Algorithms (D5) to monitor and control the released energy, future scientists finally have access to cheap, abundant, and reusable power."
+}

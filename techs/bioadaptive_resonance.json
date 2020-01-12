@@ -1,0 +1,23 @@
+{
+    "name": "Bioadaptive Resonance",
+    "track": "CONQUER",
+    "level": 4,
+    "tag": "Advanced control of resonance fields",
+    "base_facilities": [],
+    "technologies": [
+        "Sentient Resonance"
+    ],
+    "unit_advances": [
+        "Resonance Laser (6)",
+        "Soporific Gas Pods",
+        "Spore Launcher"
+    ],
+    "miscellaneous": [],
+    "quote": {
+        "text": "I saw the alien phalanx coming toward us, and I calmed my mind as Kri'lan had taught me. And what I saw next to the phalanx was a shadow regiment, half-formed from the resonance around them. I curse the aliens ... with power like that, each one could fight as many, and I thanked Planet for sending us the betrayer.",
+        "by": "Prophet Cha Dawn",
+        "work": "The Betrayer and I",
+        "datalinks": false
+    },
+    "description": "Bioadaptive Resonance is a more advanced form of Field Modulation (C2) that allows extensive manipulation of resonance fields. An understanding of Centauri Empathy (E3) is essential to discovery of this technology."
+}

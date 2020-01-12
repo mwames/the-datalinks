@@ -1,0 +1,24 @@
+{
+    "name": "Unified Field Theory",
+    "track": "CONQUER",
+    "level": 7,
+    "tag": "Discover the fundamental mechanism of the universe",
+    "base_facilities": [
+        "The Theory of Everything"
+    ],
+    "technologies": [
+        "Frictionless Surfaces",
+        "Secrets of Creation"
+    ],
+    "unit_advances": [
+        "Tachyon Bolt (12)"
+    ],
+    "miscellaneous": [],
+    "quote": {
+        "text": "Beware, you who seek first and final principles, for you are trampling the garden of an angry God and he awaits you just beyond the last theorem.",
+        "by": "Sister Miriam Godwinson",
+        "work": "But for the Grace of God",
+        "datalinks": false
+    },
+    "description": "Scientists have long worked towards a single theory that explains all fundamental forces in nature (gravity, magnetism, etc.) - a Unified Field Theory. Advances in Monopole Magnets (B6) and Applied Relativity (D5) help reveal these fundamental mechanics of the universe."
+}

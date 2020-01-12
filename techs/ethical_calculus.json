@@ -1,0 +1,24 @@
+{
+    "name": "Ethical Calculus",
+    "track": "EXPLORE",
+    "level": 2,
+    "tag": "A new system of morality to encompass our future",
+    "base_facilities": [
+        "Children's Creche"
+    ],
+    "technologies": [
+        "Intellectual Integrity",
+        "Gene Splicing"
+    ],
+    "unit_advances": [],
+    "miscellaneous": [
+        "Democratic"
+    ],
+    "quote": {
+        "text": "Some vices miss what is right because they are deficient, others because they are excessive, in feelings or in actions, while virtue finds and chooses the mean.",
+        "by": "Aristotle",
+        "work": "Nichomachean Ethics",
+        "datalinks": true
+    },
+    "description": "Throughout the history of mankind, philpsophers have grappled with the question: 'How shall we then live?' Ethical Calculus lays down mathematical principles uncovered by Social Psych (B1) to address the question, essentially providing calculations and functions that determine appropriate behavior."
+}

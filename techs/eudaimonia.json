@@ -1,0 +1,25 @@
+{
+    "name": "Eudaimonia",
+    "track": "EXPLORE",
+    "level": 12,
+    "tag": "True and complete happiness",
+    "base_facilities": [
+        "The Telepathic Matrix"
+    ],
+    "technologies": [
+        "Temporal Mechanics"
+    ],
+    "unit_advances": [
+        "Psi Defense (Psi)"
+    ],
+    "miscellaneous": [
+        "Eudaimonic"
+    ],
+    "quote": {
+        "text": "The happy life is thought to be one of excellence; now an excellent life requires exertion, and does not consist in amuesment. If Eudaimonia, or happiness, is activity in accordance with excellence, it is reasonable that it should bi in accordance with the highest excellence; and this will be that of the best thing in us.",
+        "by": "Aristotle",
+        "work": "Nichomachean Ethics",
+        "datalinks": true
+    },
+    "description": "Eudaimonia is a philosophical system that takes its name from the ancient Greek word for fulfillment and happiness. Based on economic equity made possible by Sentient Econometrics (E11) and rooted in opposition to the excesses of The Will to Power (E8), Eudaimonia encourages each citizen to achieve happiness through striving to fulfill completely his or her potential; freedom, creativity, and individuality flourish in governments that adopt this philosophy."
+}

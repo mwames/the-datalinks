@@ -1,0 +1,26 @@
+{
+    "name": "Centauri Genetics",
+    "track": "EXPLORE",
+    "level": 7,
+    "tag": "Decipher Planet's genetic code",
+    "base_facilities": [
+        "Brood Pit",
+        "The Pholus Mutagen"
+    ],
+    "technologies": [
+        "Centauri Psi"
+    ],
+    "unit_advances": [
+        "Locusts of Chiron"
+    ],
+    "miscellaneous": [
+        "Increases MINERALS production in fungus squares."
+    ],
+    "quote": {
+        "text": "Remember, genes are NOT blueprints. This means you can't for example, insert 'the genes for an elephant trunk' into a giraffe and get a giraffe with a trunk. There -are- no genes for trunks. What you CAN do with genes is chemistry, since DNA code for chemicals. For instance, we can in theory splice the native plants' talent for nitrogen fixation into a terran plant.",
+        "by": "Academician Prokhor Zakharov",
+        "work": "Nonlinear Genetics",
+        "datalinks": false
+    },
+    "description": "The first contacts with Planetary sentience during research on Centauri Meditation (E5) caused widespread excitement among the science community. They propose using new Retroviral Engineering (C5) techniques to unravel Centauri Genetics -- the structural blueprint of native organisms."
+}

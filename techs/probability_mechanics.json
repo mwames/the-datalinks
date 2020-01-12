@@ -1,0 +1,23 @@
+{
+    "name": "Probability Mechanics",
+    "track": "BUILD",
+    "level": 7,
+    "tag": "Predict and control random events",
+    "base_facilities": [
+        "Tachyon Field"
+    ],
+    "technologies": [
+        "Nanometallurgy"
+    ],
+    "unit_advances": [
+        "Probability Sheath (6)"
+    ],
+    "miscellaneous": [],
+    "quote": {
+        "text": "Einstein would turn over in his grave. Not only does God play dice, the dice are loaded.",
+        "by": "Chairman Sheng-ji Yang",
+        "work": "Looking God in the Eye",
+        "datalinks": false
+    },
+    "description": "With operating systems powered by Pre-Sentient Algorithms (D5), computers finally gain sufficient processing power to unravel the mysteries of Probability Mechanics. With this breakthrough, scientists can accurately predict many seemingly random events."
+}

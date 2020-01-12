@@ -1,0 +1,24 @@
+{
+    "name": "Doctrine: Mobility",
+    "track": "EXPLORE",
+    "level": 1,
+    "tag": "Fast attacks and disciplined troops succeed on Planet as on Earth",
+    "base_facilities": [
+        "Command Center"
+    ],
+    "technologies": [
+        "Doctrine: Flexibility",
+        "Doctrine: Loyalty"
+    ],
+    "unit_advances": [
+        "Speeder (2)"
+    ],
+    "miscellaneous": [],
+    "quote": {
+        "text": "Once a man has changed the relationship between himself and his environment, he cannot return to the blissful ignorance he left. Motion, of necessity, involves a change in perspective.",
+        "by": "Commissioner Pravin Lal",
+        "work": "A Social History of Planet",
+        "datalinks": false
+    },
+    "description": "The early colonists quickly learned the importance of reconnaissance and self-defense in this most alien of environments. Doctrine: Mobility formalizes these cornerstones of military might, representing the first attempts at an organized defense policy on Planet."
+}

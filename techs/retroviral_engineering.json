@@ -1,0 +1,24 @@
+{
+    "name": "Retroviral Engineering",
+    "track": "CONQUER",
+    "level": 6,
+    "tag": "We unleash this weapon at our own risk",
+    "base_facilities": [
+        "Genejack Factory"
+    ],
+    "technologies": [
+        "Biomachinery",
+        "Centauri Genetics"
+    ],
+    "unit_advances": [],
+    "miscellaneous": [
+        "Genetic Warfare atrocity can be committed by probe teams."
+    ],
+    "quote": {
+        "text": "The Academician's private residence shall remain off-limits to the Genetic Inspectors. We possess no retroviral capability, we are not researching retroviral engineering, and we shall not allow this Council to violate faction privileges in the name of this ridiculous witch hunt!",
+        "by": "Fedor Petrov",
+        "work": "Vice Provost for University Affairs",
+        "datalinks": false
+    },
+    "description": "Retroviral Engineering, a specialized branch of Bio-Engineering (B4), uses engineered viruses to deliver genetic alterations. This application can be used for peaceful, healing purposes, but can also be twisted by the same militant researchers behind Advanced Military Algorithms (E3) into a weapon of terrible destruction."
+}

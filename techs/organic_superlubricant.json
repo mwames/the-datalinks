@@ -1,0 +1,22 @@
+{
+    "name": "Organic Superlubricant",
+    "track": "CONQUER",
+    "level": 7,
+    "tag": "Lubricants that learn where to apply themselves",
+    "base_facilities": [],
+    "technologies": [
+        "Nanominiturization",
+        "Advanced Spaceflight"
+    ],
+    "unit_advances": [
+        "Fusion Laser (10)"
+    ],
+    "miscellaneous": [],
+    "quote": {
+        "text": "Organic Superlube? Oh, it's great stuff, great stuff. You really have to keep an eye on it, though -- it'll try and slide away from you the first chance it gets.",
+        "by": "T.M. Morgan-Reilly",
+        "work": "Morgan Metagenics",
+        "datalinks": false
+    },
+    "description": "Machines with moving parts have long been subject to wear and tear as the parts grind against one another. On Earth, traditional lubricants such as oil were used to minimize these effects. Planet lacks large reserves of such materials, until the invention of Synthetic Fossil Fuels (E4). With Organic Superlubricant, scientists can create lubricating compounds that act like simple life forms, seeking out areas where they do the most good."
+}

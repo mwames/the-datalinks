@@ -1,0 +1,28 @@
+{
+    "name": "Centauri Ecology",
+    "track": "EXPLORE",
+    "level": 1,
+    "tag": "By studying the Xenofungus we can learn how to survive",
+    "base_facilities": [
+        "The Weather Paradigm"
+    ],
+    "technologies": [
+        "Centauri Empathy",
+        "Ecological Engineering",
+        "Field Modulation"
+    ],
+    "unit_advances": [
+        "Terraforming Unit (Equipment)",
+        "Formers"
+    ],
+    "miscellaneous": [
+        "Increases NUTRIENT production in fungus squares"
+    ],
+    "quote": {
+        "text": "Planet's atmosphere, though a gasping death to humans and most animals, is paradise for Earth plants. The high nitrate content of the soil and the rich yellow sunlight bring an abundant harvest wherever adjustments can be made for the unusual soil conditions.",
+        "by": "Lady Deirdre Skye",
+        "work": "A Comparative Biology of Planet",
+        "datalinks": false
+    },
+    "description": "Finding adequate sources of nutrients, energy and minerals is the most immediate problem facing the colonists after Planetfall. An understanding of the basics of Centauri Ecology provides the new arrivals with the tools they need to begin shaping the world around them - how plants grow, what geological structures exist, and how natural energy sources may be exploited on Planet."
+}

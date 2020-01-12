@@ -1,0 +1,24 @@
+{
+    "name": "Nanometallurgy",
+    "track": "EXPLORE",
+    "level": 8,
+    "tag": "Manipulate metals at the molecular level",
+    "base_facilities": [],
+    "technologies": [
+        "Matter Compression",
+        "Quantum Machinery"
+    ],
+    "unit_advances": [
+        "Deep Pressure Hull",
+        "Carrier Deck",
+        "Repair Bay"
+    ],
+    "miscellaneous": [],
+    "quote": {
+        "text": "Our scientists now use fractal theory to \"teach\" the molecules to assume, or resume, a particular form. Substances of amazing strength become simple once the formulae are properly computed.",
+        "by": "Col. Corazon Santiago",
+        "work": "The Council of War",
+        "datalinks": false
+    },
+    "description": "Driven by the requirements of Doctrine: Initiative (E5) and the mathematical models behind Probability Mechanics (B7), Nanometallurgy techniques allow engineers to manipulate metals at the molecular level."
+}

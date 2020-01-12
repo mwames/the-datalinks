@@ -1,0 +1,29 @@
+{
+    "name": "Planetary Economics",
+    "track": "BUILD",
+    "level": 4,
+    "tag": "Unifying global markets for maximum profits",
+    "base_facilities": [
+        "Hybrid Forest",
+        "Subsea Trunkline",
+        "The Ascetic Virtues"
+    ],
+    "technologies": [
+        "Quantum Power",
+        "Sentient Econometrics"
+    ],
+    "unit_advances": [],
+    "miscellaneous": [
+        "Increases COMMERCE income from Treaties and Pacts.",
+        "Economic Victory allowed",
+        "PROPOSAL: Global Trade Pact",
+        "PROPOSAL: Repeal Global Trade Pact"
+    ],
+    "quote": {
+        "text": "The Morgans fear what may not be purchased, for a trader cannot comprehend a thing that is priceless.",
+        "by": "Sister Miriam Godwinson",
+        "work": "The Collected Sermons",
+        "datalinks": false
+    },
+    "description": "Early industrial policy on Planet centered on individual markets and sectors, such as Environmental Economics (B5), but these separate sectors create inefficiencies. Proponents of Intellectual Integrity (E3) insist that these inefficiencies are unnecessary, and work to create a system of Planetary Economics where goods and services can flow freely."
+}

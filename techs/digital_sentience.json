@@ -1,0 +1,26 @@
+{
+    "name": "Digital Sentience",
+    "track": "DISCOVER",
+    "level": 10,
+    "tag": "Computers with personality",
+    "base_facilities": [
+        "The Network Backbone"
+    ],
+    "technologies": [
+        "Applied Gravitonics",
+        "Self-Aware Machines",
+        "Sentient Econometrics"
+    ],
+    "unit_advances": [],
+    "miscellaneous": [
+        "Cybernetic",
+        "Increases Probe Team base morale."
+    ],
+    "quote": {
+        "text": "We are no longer particularly in the business of writing software to perform specific tasks. We now teach the software how to learn, and in the primary bonding process it molds itself around the task to be performed. The feedback loop never really ends, so a tenth year polysentience can be a priceless jewel or a psychotic wreck, but it is the primary bonding -- the childhood, if you will -- that has the most far-reaching repercussions.",
+        "by": "Bad'l Ron, Wakener",
+        "work": "Morgan Polysoft",
+        "datalinks": false
+    },
+    "description": "When utilized as part of Industrial Nanorobotics (B9), the Mind/Machine Interface (B6) provides the key spark needed by computers to at last achieve Digital Sentience. These new artificial intelligences have all the hallmarks of an individual organism: they respond to their environment, adapt to stimuli, and even exhibit 'personalities' based on their respective abilities and preferences."
+}

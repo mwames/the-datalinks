@@ -1,0 +1,24 @@
+{
+    "name": "Super Tensile Solids",
+    "track": "BUILD",
+    "level": 10,
+    "tag": "Unbreakable materials",
+    "base_facilities": [
+        "Habitation Dome",
+        "The Space Elevator"
+    ],
+    "technologies": [
+        "Matter Editation"
+    ],
+    "unit_advances": [
+        "Pulse Armor (8)"
+    ],
+    "miscellaneous": [],
+    "quote": {
+        "text": "Optical Computers, genetic catalogs, nanorepair modules -- forget all of that. It's when you see a megaton of steel suspended over your head by a thread the thickness of a human hair that you really find God in technology.",
+        "by": "Anonymous Metagenics Dockworker",
+        "work": "MorganLink 3DVision Live Interview",
+        "datalinks": false
+    },
+    "description": "The requirements of Advanced Spaceflight (E8) and the possibilities inherent in Matter Compression (C9) lead to research in Super Tensile Solids. These materials possess such strength as to be functionally unbreakable in a natural environment."
+}

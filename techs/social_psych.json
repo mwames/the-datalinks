@@ -1,0 +1,23 @@
+{
+    "name": "Social Psych",
+    "track": "BUILD",
+    "level": 1,
+    "tag": "We must build a stable society",
+    "base_facilities": [
+        "Recreation Commons"
+    ],
+    "technologies": [
+        "Doctrine: Loyalty",
+        "Ethical Calculus",
+        "Secrets of the Human Brain"
+    ],
+    "unit_advances": [],
+    "miscellaneous": [],
+    "quote": {
+        "text": "If you can discover a better way of life than office-holding for your future rulers, a well-governed city becomes a possibility. For only in such a state will those rule who are truly rich, not in gold, but in wealth that makes happiness -- a good and wise life.",
+        "by": "Plato",
+        "work": "The Republic",
+        "datalinks": true
+    },
+    "description": "The overcrowding aboard the Unity following the premature wakeup caused terrible conditions for the crew, but also generated valuable data concerning humans under extreme environments stresses. Analysis of this data provides the first comprehensive, mathematical insight into the Social Psychology of humans."
+}

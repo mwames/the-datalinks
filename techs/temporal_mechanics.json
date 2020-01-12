@@ -1,0 +1,23 @@
+{
+    "name": "Temporal Mechanics",
+    "track": "BUILD",
+    "level": 14,
+    "tag": "Manipulate time itself",
+    "base_facilities": [],
+    "technologies": [
+        "Threshold of Transcendence"
+    ],
+    "unit_advances": [
+        "Stasis Generator (12)"
+    ],
+    "miscellaneous": [
+        "Increases ENERGY production in fungus squares."
+    ],
+    "quote": {
+        "text": "Time travel in the classic sense has no place in rational theory, but temporal distortaion does exist on the quantum level, and more importantly it can be controlled.",
+        "by": "Academician Prokhor Zakharov",
+        "work": "For I Have Tasted the Fruit",
+        "datalinks": false
+    },
+    "description": "Breakthroughs in Eudaimonia (E12) and Matter Transmission (B17) lead to the last great discovery of the physical universe: Temporal Mechanics, the manipulation of time itself."
+}

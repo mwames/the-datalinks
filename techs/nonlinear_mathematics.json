@@ -1,0 +1,21 @@
+{
+    "name": "Nonlinear Mathematics",
+    "track": "CONQUER",
+    "level": 2,
+    "tag": "Harness Chaos Theory for new kinds of weaponry",
+    "base_facilities": [],
+    "technologies": [
+        "Superstring Theory"
+    ],
+    "unit_advances": [
+        "Particle Impactor (4)"
+    ],
+    "miscellaneous": [],
+    "quote": {
+        "text": "There are two kinds of scientific progress: the methodical experimentation and categorization which gradually extends the boundaries of knowledge, and the revolutionary leap of genius which redefines and transcends those boundaries. Acknowledging our debt to the former, we yearn nonetheless for the latter.",
+        "by": "Academician Prokhor Zakharov",
+        "work": "Address to the Faculty",
+        "datalinks": false
+    },
+    "description": "By using the power of Information Networks (D1) to speed calculations and encourage collaborations, researchers make giant strides in the field of Nonlinear Mathematics, with significant military applications."
+}

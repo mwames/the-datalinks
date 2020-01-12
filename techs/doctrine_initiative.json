@@ -1,0 +1,26 @@
+{
+    "name": "Doctrine: Initiative",
+    "track": "EXPLORE",
+    "level": 4,
+    "tag": "Complete naval supremacy requires new equipment and tactics",
+    "base_facilities": [
+        "Naval Yard",
+        "The Maritime Control Center"
+    ],
+    "technologies": [
+        "Nanometallurgy",
+        "Homo Superior"
+    ],
+    "unit_advances": [
+        "Cruiser (6)",
+        "Amphibious Pods"
+    ],
+    "miscellaneous": [],
+    "quote": {
+        "text": "A ship at sea is its own world. To be the captain of a ship is to be the unquestioned ruler of that world and requires all of the leadership skills of a prince or minster.",
+        "by": "Col. Corazon Santiago",
+        "work": "Leadership and the Sea",
+        "datalinks": false
+    },
+    "description": "The slow moving foils and transports developed under Doctrine: Flexibility (E2) provided an adequate early naval force. However, materials and manufacturing advances resulting fom Industrial Automation (B3) make possible new classes of powerful ships developed as part of Doctrine: Initiative, which stresses the importance of global naval superiority."
+}

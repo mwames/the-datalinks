@@ -1,0 +1,27 @@
+{
+    "name": "Centauri Meditation",
+    "track": "EXPLORE",
+    "level": 5,
+    "tag": "Planet will speak to us...if we will listen",
+    "base_facilities": [
+        "Centauri Preserve",
+        "The Xenoempathy Dome"
+    ],
+    "technologies": [
+        "Centauri Genetics"
+    ],
+    "unit_advances": [
+        "Isle of the Deep"
+    ],
+    "miscellaneous": [
+        "Empath",
+        "Increses ENERGY production in fungus squares"
+    ],
+    "quote": {
+        "text": "The Isle of the Deep is really not a single creature but a colony of thousands of individual tubules, an aquatic vector of the Mind Worm which terrorizes Planet's continents. Over its lifetime certain tubules secrete a tough gluelike substance which hardens to form th characteristic shell that floats the colons and creates the apprearance of a rogue island.",
+        "by": "Lady Deirdre Skye",
+        "work": "A Comparative Biology of Planet",
+        "datalinks": false
+    },
+    "description": "Centauri Empathy (E3) and Ecological Engineering (E4) reveal the vastness and complexity of the ecosystem on Planet. Research into Centauri Meditation illuminates the next, almost terrifying step-the attempt to communicate directly with Planet itself."
+}

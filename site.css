@@ -1,0 +1,56 @@
+.tech-card {
+  font-family: "Roboto", sans-serif;
+  border-radius: 2rem;
+  border: 3px solid red;
+  display: flex;
+  flex-direction: row;
+  height: 14rem;
+  width: 27rem;
+}
+.tech-card .tech-icon {
+  display: flex;
+  border-radius: 2rem;
+  justify-content: center;
+  align-items: center;
+  flex: 0 0 7rem;
+}
+.tech-card .tech-icon img {
+  height: 6rem;
+}
+.tech-card .tech-info {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1 0 auto;
+  border-top-right-radius: 1.75rem;
+  border-bottom-right-radius: 1.75rem;
+  background-color: white;
+  padding-left: 1rem;
+}
+.tech-card .tech-info .name {
+  font-weight: bold;
+  font-size: 1.6rem;
+  text-align: center;
+}
+.tech-card .tech-info .track {
+  font-family: "Arial Narrow";
+  font-weight: bold;
+  font-size: 1.6rem;
+  text-align: center;
+}
+.tech-card .tech-info .track.conquer {
+  color: #e1561c;
+}
+.tech-card .tech-info .track.discover {
+  color: #d7e6ed;
+}
+.tech-card .tech-info .track.explore {
+  color: #90ae50;
+}
+.tech-card .tech-info .track.build {
+  color: #e2bd4d;
+}
+.tech-card .tech-info .data div:not(:last-of-type) {
+  margin-bottom: 0.2rem;
+}
+
+/*# sourceMappingURL=site.css.map */

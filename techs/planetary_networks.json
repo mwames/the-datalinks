@@ -1,0 +1,29 @@
+{
+    "name": "Planetary Networks",
+    "track": "DISCOVER",
+    "level": 2,
+    "tag": "We can pool our knowledge with a worldwide database",
+    "base_facilities": [
+        "Hologram Theatre",
+        "The Virtual World"
+    ],
+    "technologies": [
+        "Industrial Automation",
+        "Cyberethics"
+    ],
+    "unit_advances": [
+        "Probe Team (Equipment)",
+        "Probe Team"
+    ],
+    "miscellaneous": [
+        "Planned",
+        "Librarian"
+    ],
+    "quote": {
+        "text": "If our society seems more nihilistic than that of previous eras, perhaps this is simply a sign of our maturity as a sentient species. As our collective conciousness expands beyond a crucial point, we are at last ready to accept life's fundamental truth: that life's only purpose is life itself.",
+        "by": "Chairman Sheng-ji Yang",
+        "work": "Looking God in the Eye",
+        "datalinks": false
+    },
+    "description": "Once the colonists discover how to survive, they focus on recreating some of the organizational tools left behind on Earth. Following the implementation of simple Information Networks (D1), the creation of a standard for Planetary Networks emerges as a high priority for the scientific community."
+}

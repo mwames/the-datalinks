@@ -1,0 +1,23 @@
+{
+    "name": "Applied Physics",
+    "track": "CONQUER",
+    "level": 1,
+    "tag": "Powerful, versatile modern lasers",
+    "base_facilities": [],
+    "technologies": [
+        "Nonlinear Mathematics",
+        "High Energy Chemistry",
+        "Optical Computers"
+    ],
+    "unit_advances": [
+        "Laser (2)"
+    ],
+    "miscellaneous": [],
+    "quote": {
+        "text": "Scientific theories are judged by the coherence they lend to our natural experience and the simplicity with which they do so. The grand principle of the heavens balances on the razor's edge of truth.",
+        "by": "Commissioner Pravin Lal",
+        "work": "A History of Science",
+        "datalinks": false
+    },
+    "description": "The colonists must create new tools from the wreckage of the Unity to survive and expand. Early inquiries into Applied Physics emphasize this adaptation of existing technology for the new environment"
+}

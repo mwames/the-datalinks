@@ -1,0 +1,27 @@
+{
+    "name": "Advanced Spaceflight",
+    "track": "DISCOVER",
+    "level": 8,
+    "tag": "Explore the reaches of space",
+    "base_facilities": [
+        "Orbital Power Transmitter",
+        "The Living Refinery"
+    ],
+    "technologies": [
+        "Super Tensile Solids"
+    ],
+    "unit_advances": [
+        "Plasma Shard (13)"
+    ],
+    "miscellaneous": [
+        "PROPOSAL: Launch Solar Shade",
+        "PROPOSAL: Increase Solar Shade"
+    ],
+    "quote": {
+        "text": "And so we return again to the holy void. Some say this is simply our destiny, but I would have you remember always that the void EXISTS, just as surely as you of I. Is nothingness any less a miracle than substance?",
+        "by": "Sister Miriam Godwinson",
+        "work": "We Must Dissent",
+        "datalinks": false
+    },
+    "description": "Resumption of Advanced Spaceflight begins shortly after mankind begins Orbital Spaceflight (E7). With this technology, spacecraft can once again reach the moons orbiting Planet and, eventually, the stars themselves."
+}

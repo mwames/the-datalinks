@@ -1,0 +1,23 @@
+{
+    "name": "Biogenetics",
+    "track": "DISCOVER",
+    "level": 1,
+    "tag": "Understanding the intricacies of the genetic code",
+    "base_facilities": [
+        "Recycling Tanks",
+        "The Human Genome Project"
+    ],
+    "technologies": [
+        "Secrets of the Human Brain",
+        "Gene Splicing"
+    ],
+    "unit_advances": [],
+    "miscellaneous": [],
+    "quote": {
+        "text": "We hold life to be sacred, but we also know the foundation of life consists of a stream of codes not so different from the successive frames of a watchvid. Why then cannot we cut one code short here, and start another there? Is life so fragile that it can withstand no tampering? Does the sacred brook no improvement?",
+        "by": "Chairman Sheng-ji Yang",
+        "work": "Dynamics of Mind",
+        "datalinks": false
+    },
+    "description": "The alien environment on Planet brought a host of unforseen health problems for the colonists. Early inquiries into Biogenetics centers on the prevention and treatment of these problems. Researchers in this discipline seek an understandin of the entire genetic code."
+}

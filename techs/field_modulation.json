@@ -1,0 +1,21 @@
+{
+    "name": "Field Modulation",
+    "track": "CONQUER",
+    "level": 2,
+    "tag": "Simple manipulation of resonance fields",
+    "base_facilities": [],
+    "technologies": [
+        "Bioadaptive Resonance"
+    ],
+    "unit_advances": [
+        "Resonance Armor (3)"
+    ],
+    "miscellaneous": [],
+    "quote": {
+        "text": "The Progenitor race appears to sense, and possibly even manipulate, local fields an untrained human cannot percieve without mechanical aid, including at the very least electricity and magnetism. This sensitivity creates entirely new worlds of artistic endeavors for the race-or it may be developed into a powerful combat awareness that can foil any attempts at surprise.",
+        "by": "Prime Function Aki Zeta-Five",
+        "work": "Alien Analysis",
+        "datalinks": false
+    },
+    "description": "The Progenitor race can sense and manipulate local fields an untrained human cannot percieve without mechanical aid, including electricity and magnetism. Built on an understanding of Progenitor Psych (E1) and Centauri Ecology (E1), the discovery of Field Modulation allows trained and equipped individuals to detect and perform basic manipulations of these 'resonance fields'."
+}

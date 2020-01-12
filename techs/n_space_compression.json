@@ -1,0 +1,25 @@
+{
+    "name": "N-Space Compression",
+    "track": "CONQUER",
+    "level": 8,
+    "tag": "Tap parallel universes for matter compression",
+    "base_facilities": [
+        "Flechette Defense System",
+        "Geosynchronous Survey Pod"
+    ],
+    "technologies": [
+        "Self-Aware Machines"
+    ],
+    "unit_advances": [
+        "Tectonic Payload (Equipment)",
+        "Fungal Payload (Equipment"
+    ],
+    "miscellaneous": [],
+    "quote": {
+        "text": "Humans : there is no space inside rocket. Progenitor : space exists around all things with mass. Space : \"here\". Inside rocket: \"there\". Secret : bring here to there.",
+        "by": "Caretaker Lular H'minee",
+        "work": "Secrets: Space",
+        "datalinks": false
+    },
+    "description": "N-Space Compression is a Progenitor term that loosely translates as \"The shortest distance between two points is always 0, because any two points in our perceivable space are actually contiguous in some other universe, postulating infinity.\" Compression simply brings things that appear to be in one place (such as bulky missile payloads) to another place (such as a missile warhead) at will (such as only at a time just prior to detonation). This technology is based on an understanding or Orbital Spaceflight (D6) and Biomachinery (B7)."
+}

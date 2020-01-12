@@ -1,0 +1,24 @@
+{
+    "name": "Doctrine: Loyalty",
+    "track": "CONQUER",
+    "level": 2,
+    "tag": "Loyalty is the engine that drives armies",
+    "base_facilities": [
+        "Perimeter Defense",
+        "The Command Nexus"
+    ],
+    "technologies": [
+        "Intellectual Integrity"
+    ],
+    "unit_advances": [],
+    "miscellaneous": [
+        "Police State"
+    ],
+    "quote": {
+        "text": "Therefore a wise prince will seek means by which his subjects will always and in every possible condition of things have need of his government, and then they will always be faithful to him.",
+        "by": "Niccolo Machiavelli",
+        "work": "The Prince",
+        "datalinks": true
+    },
+    "description": "Doctrine: Mobility (E1) proved a sound dogma for the early years on Planet. However, as the struggle for survival against native Mind Worms and rival factions intendifies, many young officers repudiate the old guard's emphasis on Mobility as the dominant military policy. Based also on the revelations of Social Psych (B1), the new Doctrine: Loyalty stresses extensive training, defensive facilities, and zealous dedication to faction leaders as the foundation for survival and success in combat. Doctrine: Loyalty emphasizes a two-way fealty -- soldiers are expected to lay down their lives without question, but in return the receive respect, power, and positions of authority in the new social hierarchy."
+}

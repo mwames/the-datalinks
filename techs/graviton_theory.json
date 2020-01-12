@@ -1,0 +1,24 @@
+{
+    "name": "Graviton Theory",
+    "track": "EXPLORE",
+    "level": 13,
+    "tag": "Unlock the mechanisms of gravity",
+    "base_facilities": [],
+    "technologies": [
+        "Applied Gravitonics"
+    ],
+    "unit_advances": [
+        "Gravship (8)",
+        "Antigrav Struts"
+    ],
+    "miscellaneous": [
+        "Units with drop pods may make orbital insertions."
+    ],
+    "quote": {
+        "text": "This unusual specimen is not so much a classic particle as a connector -- a kind of string attaching two particles. As distance increases the connective power becomes attenuated, but if it is cut the power vanishes: forever.",
+        "by": "Academician Prokhor Zakharov",
+        "work": "For I Have Tasted the Fruit",
+        "datalinks": false
+    },
+    "description": "Quantum Machinery (B12) and Mind/Machine Interface (C6) pave the way for an understanding of gravity - the weakest fundamental force in the universe, but one that acts at infinite distances. With Graviton Theory, physicists can detect and measure the long-predicted gravitons - prticle strings that 'carry' gravitational force."
+}

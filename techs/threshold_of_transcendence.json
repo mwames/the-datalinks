@@ -1,0 +1,24 @@
+{
+    "name": "Threshold of Transcendence",
+    "track": "EXPLORE",
+    "level": 15,
+    "tag": "The brink of a new epoch",
+    "base_facilities": [
+        "The Voice of Planet",
+        "The Ascent to Transcendence"
+    ],
+    "technologies": [
+        "Transcendent Thought"
+    ],
+    "unit_advances": [],
+    "miscellaneous": [
+        "Increases MINERALS production in fungus squares."
+    ],
+    "quote": {
+        "text": "And when he has brought forth and reared this perfect virtue, he shall be called the friend of God, and if ever it is given to man to put on immortality, it shall be given to him.",
+        "by": "Plato",
+        "work": "The Symposium",
+        "datalinks": true
+    },
+    "description": "The Secrets of Creation (D11) and Temporal Mechanics (B18) brought sentient beings to the brink of a new era -- the Threshold of Transcendence. In this transitional state, individuals begin preparations for the final stage of evolution, selling possessions, cleansing their bodies according to a new code of asceticism, and meditating alone and unprotected in remote regions of Planet."
+}

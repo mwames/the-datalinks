@@ -1,0 +1,25 @@
+{
+    "name": "Intellectual Integrity",
+    "track": "EXPLORE",
+    "level": 3,
+    "tag": "Do not mistake wishes for truth",
+    "base_facilities": [
+        "The Citizens' Defense Force"
+    ],
+    "technologies": [
+        "Cyberethics",
+        "Planetary Economics"
+    ],
+    "unit_advances": [
+        "High Morale",
+        "Non-Lethal Methods"
+    ],
+    "miscellaneous": [],
+    "quote": {
+        "text": "Man's unfailing capacity to believe what he prefers to be true rather than what the evidence shows to be likely and possible has always astounded me. We long for a caring Universe which will save us from our childish mistakes, and in the face of mountains of evidence to the contrary we will pin all our hopes on the slimmest of doubts. God has not been proven not to exist, therefore he must exist.",
+        "by": "Academician Prokhor Zakharov",
+        "work": "For I Have Tasted the Fruit",
+        "datalinks": false
+    },
+    "description": "The search for Intellectual Integrity arises from questions posed by Ethical Calculus (E2) and Doctine: Loyalty (C2). According to the philosophy, valid wisdom comes merely from asking questions unburdened by prejudices. Only by shedding those pre-conceived notions can we achieve the clarity of undistorted knowledge."
+}

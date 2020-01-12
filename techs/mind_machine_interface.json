@@ -1,0 +1,31 @@
+{
+    "name": "Mind/Machine Interface",
+    "track": "CONQUER",
+    "level": 6,
+    "tag": "The integration of man and machine",
+    "base_facilities": [
+        "The Cyborg Factory",
+        "The Cloudbase Academy"
+    ],
+    "technologies": [
+        "Graviton Theory",
+        "Digital Sentience",
+        "Biomachinery"
+    ],
+    "unit_advances": [
+        "Copter (8)",
+        "Drop Pods"
+    ],
+    "miscellaneous": [
+        "Thinker",
+        "Increases Probe Team base morale.",
+        "Diplomatic Victory Allowed"
+    ],
+    "quote": {
+        "text": "The Warrior's bland acronym, MMI, obscures the true horror of this monstrosity. Its inventors promise a new era of genius, but meanwhile unscrupulous power brokers use its forcible installation to violate the sanctity of unwilling human minds. They are creating their own private army of demons.",
+        "by": "Commissioner Pravin Lal",
+        "work": "Report on Human Rights",
+        "datalinks": false
+    },
+    "description": "Research into Neural Grafting (C4) demonstrated that direct communications between the brain and a digital counterpart are theoretically possible. This Mind/Machine Interface, requested by leaders implementing Doctrine: Air Power (E5) for a new generation of aircraft, bridges the gap between the mechanical and the biological."
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Progenitor Psych",
+    "track": "Explore",
+    "level": 1,
+    "tag": "The basic culture and language of the Progenitor race",
+    "base_facilities": [
+        "Aquafarm"
+    ],
+    "technologies": [
+        "Field Modulation",
+        "Adaptive Economics"
+    ],
+    "unit_advances": [],
+    "miscellaneous": [],
+    "quote": {
+        "text": "And I stood before him, and I sang unto her, and it appeared to listen. His very countenance rippled like the sea, and the sound of my own voice came back to me, distorted. For a moment I thought she was mocking me, or it was nonsapient and mimicking me. Then I understood: the sounds were not important; it was how I affected his sounds and how she affected mine that transmitted the message.",
+        "by": "Prime Function Aki Zeta-Five",
+        "work": "One Future",
+        "datalinks": false
+    },
+    "description": "The Progenitors, an alien race with past ties to Planet, return to reclaim their heritage. Progenitor Psych is nothing more than a simple understanding of the aliens' culture, language, and aims. Humans cannot talk to either alien faction until the discover Progenitor Psych, or until Progenitors discover Social Psych (B1)."
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Self-Aware Machines",
+    "track": "DISCOVER",
+    "level": 11,
+    "tag": "Machines that think",
+    "base_facilities": [
+        "Nessus Mining Station",
+        "Orbital Defense Pod",
+        "The Self-Aware Colony",
+        "The Nethack Terminus"
+    ],
+    "technologies": [
+        "Singularity Mechanics",
+        "Matter Editation"
+    ],
+    "unit_advances": [],
+    "miscellaneous": [
+        "Increases Probe Team base morale."
+    ],
+    "quote": {
+        "text": "Without sensibility no object would be given to us, without understanding no object would be thought. Thoughts without content are empty, intuitions without conecpts are blind.",
+        "by": "Immanuel Kant",
+        "work": "Critique of Pure Reason",
+        "datalinks": true
+    },
+    "description": "Following the advent of Digital Sentience (D10), computers have only one great leap left: the evolution to Self-Aware Machines. Advances in N-Spce Compression (D11) provide the storage capacity needed for this technology. These machines are capable of complex, higher-order thinking, and value the experiences of existence as much as any biological being.  As with other living organisms, self-preservation is paramount for these specimens."
+}

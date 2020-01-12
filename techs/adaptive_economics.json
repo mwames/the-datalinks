@@ -1,0 +1,22 @@
+{
+    "name": "Adaptive Economics",
+    "track": "BUILD",
+    "level": 3,
+    "tag": "Economics adapted to new environments",
+    "base_facilities": [
+        "Thermocline Transducer",
+        "The Planetary Energy Grid"
+    ],
+    "technologies": [
+        "Planetary Economics"
+    ],
+    "unit_advances": [],
+    "miscellaneous": [],
+    "quote": {
+        "text": "Humans : correct in making the leap from wealth as currency to wealth as energy. But logic failure : wealth ultimately is extension of desire, fluctuating with emotions and state of mind. Desires : when all are supported in purely adaptable system, true wealth is achieved.",
+        "by": "Usurper Judaa Marr",
+        "work": "Human: Nature",
+        "datalinks": false
+    },
+    "description": "Coming from an understanding of Progenitor Psych (E1) and industrial Economics (B2), Adaptive Economics can accomodate rapid changes in economic systems to match the needs of the populace."
+}

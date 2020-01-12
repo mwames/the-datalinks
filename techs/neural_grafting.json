@@ -1,0 +1,25 @@
+{
+    "name": "Neural Grafting",
+    "track": "CONQUER",
+    "level": 4,
+    "tag": "Enhance individuals with on-board circuitry",
+    "base_facilities": [
+        "Bioenhancement Center",
+        "The Neural Amplifier"
+    ],
+    "technologies": [
+        "Mind/Machine Interface",
+        "Bio-Engineering"
+    ],
+    "unit_advances": [],
+    "miscellaneous": [
+        "Units can be designed with two special abilities."
+    ],
+    "quote": {
+        "text": "I think, and my thoughts cross the barrier into the synapses of the machine, just as the good doctor intended. But what I cannot shake, and what hints at things to come, is that thoughts cross back. In my dreams, the sensibility of the machine invades the periphery of my conciousness: dark, rigid, cold, alien. Evolution is at work here, but just what is evolving remains to be seen.",
+        "by": "Commissioner Pravin Lal",
+        "work": "Man and Machine",
+        "datalinks": false
+    },
+    "description": "The insatiable drive for efficiency spawned by Industrial Automation (B3) drives the development of Neural Grafting. This new technology, based on Secrets of the Human Brain (D2), allows attachments of digital circuitry directly to the neural cortex. With these implants individuals willing to undergo Neural Grafting can enhance many aspects of their physical being, from heightened senses to faster reaction times."
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Superconductor",
+    "track": "CONQUER",
+    "level": 4,
+    "tag": "Efficient energy transmission for powerful weaponry",
+    "base_facilities": [],
+    "technologies": [
+        "Applied Relativity",
+        "Fusion Power"
+    ],
+    "unit_advances": [
+        "Gatling Laser (5)"
+    ],
+    "miscellaneous": [],
+    "quote": {
+        "text": "Important? Yes! Critical? Absolutely. I would go so far as to say that Superconducting Fiber alone makes our present economy possible.",
+        "by": "CEO Nwabudike Morgan",
+        "work": "MorganLink 3DVision Live Interview",
+        "datalinks": false
+    },
+    "description": "The power requirements of Optical Computers (D3) and the nascent Industrial Base (B1) stimulate research into high-temperature Superconductors, an advance long considered the 'holy Grail' by physical chemists. A Superconductor is a material that does not resist a flow of electrons. Using a Superconductor, power can be transmitted at incredible speeds over vast distances with no degredation. Bulky and expensive cooling equipment for high-powered machinery or weaponry becomes unnecessary, because these materials remain cool and efficient as electricity passes through them."
+}

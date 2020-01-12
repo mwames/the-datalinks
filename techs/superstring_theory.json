@@ -1,0 +1,21 @@
+{
+    "name": "Superstring Theory",
+    "track": "CONQUER",
+    "level": 5,
+    "tag": "Understanding the fundamental forces of the universe",
+    "base_facilities": [],
+    "technologies": [
+        "Monopole Magnets"
+    ],
+    "unit_advances": [
+        "Chaos Gun (8)"
+    ],
+    "miscellaneous": [],
+    "quote": {
+        "text": "A brave little theory, and actually quite coherent for a system of five or seven dimensions -- if only we lived in one.",
+        "by": "Academician Prokhor Zakharov",
+        "work": "Now We Are Alone",
+        "datalinks": false
+    },
+    "description": "One of the more contentious debates that ran through the physics community of the 20th century Earth centered on the viability of Superstring Theory. This theory attempts to unify the theory of gravity and other fundamental forces, and posits that all characteristics exhibited by subatomic particles, such as protons and neutrons, may be described as vibrations of fundamental, on-dimensional 'strings'. This concept had been abandoned as untestable, until the development of Nonlinear Mathematics (C2), which offers mathematical models supporting Superstring Theory."
+}

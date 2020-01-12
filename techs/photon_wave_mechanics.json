@@ -1,0 +1,21 @@
+{
+    "name": "Photon/Wave Mechanics",
+    "track": "CONQUER",
+    "level": 6,
+    "tag": "Control light itself",
+    "base_facilities": [],
+    "technologies": [
+        "Probability Mechanics"
+    ],
+    "unit_advances": [
+        "Photon Wall (5)"
+    ],
+    "miscellaneous": [],
+    "quote": {
+        "text": "Time dilates as the speed of light approaches. To the extent that light consists of particles, it is in its own way timeless. Through simple perturbations of the temporal manifold, we can refract or repel photons most efficiently.",
+        "by": "Academician Prokhor Zakharov",
+        "work": "Now We Are Alone",
+        "datalinks": false
+    },
+    "description": "Physicists had puzzled over the mystery of light for centureis: Why does light exhibit properties characteristic of both a wave and a particle? In 1924, Prince Louis-Victor Broglie, a French scientist, proved that all particles actually possess a wave aspect, which explained how light can act as a wave even though it does consist of particles, called photons. Following breakthroughs in Silksteel Alloys (E4) and Applied Relativity (D5), subsequent scientific inquiry focuses on the manipulation of Photon/Wave Mechanics so that light, even powerful laser beams or intense solar emissions, can be diffused and warped as needed."
+}

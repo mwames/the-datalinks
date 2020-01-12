@@ -1,0 +1,23 @@
+{
+    "name": "Nanominiturization",
+    "track": "BUILD",
+    "level": 8,
+    "tag": "Microscopic Machines",
+    "base_facilities": [],
+    "technologies": [
+        "Matter Compression",
+        "Industrial Nanorobotics"
+    ],
+    "unit_advances": [
+        "Hovertank (3)",
+        "Algorithmic Enhancements"
+    ],
+    "miscellaneous": [],
+    "quote": {
+        "text": "Objects once measured in meters have become so small that they cannot be seen by the naked eye, with revolutionary applications across the board. Gentlemen, forget what your courtesans have told you: size does matter!",
+        "by": "CEO Nwabudike Morgan",
+        "work": "Morgan Industries Annual Report",
+        "datalinks": false
+    },
+    "description": "Monopole Magnets (B6) and Organic Superlubricant (C7) lead to a revolution in engineering: Nanominiturization. With this technology, which emphasizes new assembly methods and high-tensile strength material, microscopic machine components can be constructed and all manner of bulky, heavy equipment can be shrunk to a fraction of its original size."
+}

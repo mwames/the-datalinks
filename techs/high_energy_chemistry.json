@@ -1,0 +1,23 @@
+{
+    "name": "High Energy Chemistry",
+    "track": "CONQUER",
+    "level": 2,
+    "tag": "Better defenses through Chemistry",
+    "base_facilities": [],
+    "technologies": [
+        "Advanced Subatomic Theory",
+        "Synthetic Fossil Fuels"
+    ],
+    "unit_advances": [
+        "Plasma Steel Armor (3)",
+        "Nerve Gas Pods"
+    ],
+    "miscellaneous": [],
+    "quote": {
+        "text": "At atrociously high energy states, the properties of matter change subtly and new miracles become possible. The Plasma Accretion process is now dangerous and difficult to control, but its products will soon be commonplace in out society.",
+        "by": "Sister Miriam Godwinson",
+        "work": "The Lord Works",
+        "datalinks": false
+    },
+    "description": "Breakthroughs in Applied Physics (C1) and Industrial Base (B1) lead to an understanding of High Energy Chemistry. This discipline seeks to understand the properties and behavior of matter at very high temperatures, and results in new types of materials that remain in a stable plasma state even when superheated by intense laser stimulation."
+}

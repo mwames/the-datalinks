@@ -1,0 +1,23 @@
+{
+    "name": "Singularity Mechanics",
+    "track": "DISCOVER",
+    "level": 12,
+    "tag": "Unravel the secrets of black holes",
+    "base_facilities": [
+        "Subspace Generator"
+    ],
+    "technologies": [
+        "Controlled Singularity"
+    ],
+    "unit_advances": [
+        "Singularity Engine"
+    ],
+    "miscellaneous": [],
+    "quote": {
+        "text": "Yes, yes, we've all heard the philosophical babble about \"oneness\" being \"beautiful\" and \"holy\". But let me tell you that this kind of oneness certainly isn't pretty and if you're not careful it will scare the bejeezus out of you.",
+        "by": "Anonymous Lab Technician",
+        "work": "MorganLink 3DVision Live Interview",
+        "datalinks": false
+    },
+    "description": "Knowledge of The Secrets of Creation (D11) paved the way for understanding Singularity Mechanics. This technology seeks the physical causes and composition of black holes - phenomena produced by points of infinitely dense matter that warp the fabric of space and time itself. Probes guided by onboard Self-Aware Machines (B11) transmit the data necessary to replicate this natural occurrence in controlled laboratory conditions."
+}

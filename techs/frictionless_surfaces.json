@@ -1,0 +1,21 @@
+{
+    "name": "Frictionless Surfaces",
+    "track": "DISCOVER",
+    "level": 10,
+    "tag": "Materials not subject to friction",
+    "base_facilities": [],
+    "technologies": [
+        "Quantum Power"
+    ],
+    "unit_advances": [
+        "Cloaking Device"
+    ],
+    "miscellaneous": [],
+    "quote": {
+        "text": "As I stepped onto the Magtube, a though struck me: Can there be friction where there is no substance? And can substance be tricked into hiding from itself?",
+        "by": "Dr. Gayle Nambala",
+        "work": "Morgan Industries Researcher",
+        "datalinks": false
+    },
+    "description": "Discovery of the Unified Field Theory (C7) allowed scientists to alter the fundamental properties of matter itself. The discovery of Frictionless Surfaces proves the most useful application of these techniques. As the name implies, Frictionless Surfaces consist of materials that remain unaffected by friction, a force that slows down motion by changing kinetic energy into heat energy. Moving objects made of these materials do not slow down as they come into contact with other matter."
+}
