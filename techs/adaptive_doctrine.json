@@ -3,10 +3,10 @@
     "track": "CONQUER",
     "level": 3,
     "tag": "Adapt military responses to each situation",
-    "base_facilities": [
+    "base_facilities": [],
+    "technologies": [
         "Advanced Military Algorithms"
     ],
-    "technologies": [],
     "unit_advances": [
         "Pulse Armor (3)",
         "Marine Detachment"
